@@ -1,0 +1,51 @@
+{
+    "SRC": {
+        "taux_adoption": 99.09909909909909, 
+        "nom": "Michel Issindou", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/michel-issindou/120", 
+        "sign\u00e9s": 111, 
+        "adopt\u00e9s": 110
+    }, 
+    "GDR": {
+        "taux_adoption": 11.290322580645162, 
+        "nom": "Gabriel Serville", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/gabriel-serville/120", 
+        "sign\u00e9s": 62, 
+        "adopt\u00e9s": 7
+    }, 
+    "UMP": {
+        "taux_adoption": 9.58904109589041, 
+        "nom": "Jean-Marie Tetart", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/jean-marie-tetart/120", 
+        "sign\u00e9s": 146, 
+        "adopt\u00e9s": 14
+    }, 
+    "NI": {
+        "taux_adoption": 16.949152542372882, 
+        "nom": "Annick Girardin", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/annick-girardin/120", 
+        "sign\u00e9s": 59, 
+        "adopt\u00e9s": 10
+    }, 
+    "RRDP": {
+        "taux_adoption": 19.402985074626866, 
+        "nom": "Jacques Krabal", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/jacques-krabal/120", 
+        "sign\u00e9s": 67, 
+        "adopt\u00e9s": 13
+    }, 
+    "ECOLO": {
+        "taux_adoption": 37.9746835443038, 
+        "nom": "Mich\u00e8le Bonneton", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/michele-bonneton/120", 
+        "sign\u00e9s": 79, 
+        "adopt\u00e9s": 30
+    }, 
+    "UDI": {
+        "taux_adoption": 18.6046511627907, 
+        "nom": "Sonia Lagarde", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/sonia-lagarde/120", 
+        "sign\u00e9s": 86, 
+        "adopt\u00e9s": 16
+    }
+}

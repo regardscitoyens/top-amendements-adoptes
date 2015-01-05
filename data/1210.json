@@ -1,0 +1,51 @@
+{
+    "SRC": {
+        "taux_adoption": 73.41040462427746, 
+        "nom": "Christian Eckert", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/christian-eckert/120", 
+        "sign\u00e9s": 173, 
+        "adopt\u00e9s": 127
+    }, 
+    "GDR": {
+        "taux_adoption": 9.70873786407767, 
+        "nom": "Bruno Nestor Azerot", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/bruno-nestor-azerot/120", 
+        "sign\u00e9s": 103, 
+        "adopt\u00e9s": 10
+    }, 
+    "UMP": {
+        "taux_adoption": 13.235294117647058, 
+        "nom": "Genevi\u00e8ve Levy", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/genevieve-levy/120", 
+        "sign\u00e9s": 68, 
+        "adopt\u00e9s": 9
+    }, 
+    "NI": {
+        "taux_adoption": 10.0, 
+        "nom": "Thomas Th\u00e9venoud", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/thomas-thevenoud/120", 
+        "sign\u00e9s": 10, 
+        "adopt\u00e9s": 1
+    }, 
+    "RRDP": {
+        "taux_adoption": 20.0, 
+        "nom": "Paul Giacobbi", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/paul-giacobbi/120", 
+        "sign\u00e9s": 5, 
+        "adopt\u00e9s": 1
+    }, 
+    "ECOLO": {
+        "taux_adoption": 16.666666666666668, 
+        "nom": "\u00c9ric Alauzet", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/eric-alauzet/120", 
+        "sign\u00e9s": 18, 
+        "adopt\u00e9s": 3
+    }, 
+    "UDI": {
+        "taux_adoption": 6.0606060606060606, 
+        "nom": "Arnaud Richard", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/arnaud-richard/120", 
+        "sign\u00e9s": 33, 
+        "adopt\u00e9s": 2
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "SRC": {
+        "taux_adoption": 83.88429752066116, 
+        "nom": "Christian Paul", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/christian-paul/120", 
+        "sign\u00e9s": 242, 
+        "adopt\u00e9s": 203
+    }, 
+    "GDR": {
+        "taux_adoption": 2.491103202846975, 
+        "nom": "Jacqueline Fraysse", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/jacqueline-fraysse/120", 
+        "sign\u00e9s": 281, 
+        "adopt\u00e9s": 7
+    }, 
+    "UMP": {
+        "taux_adoption": 7.100591715976331, 
+        "nom": "Camille de Rocca Serra", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/camille-de-rocca-serra/120", 
+        "sign\u00e9s": 169, 
+        "adopt\u00e9s": 12
+    }, 
+    "NI": {
+        "taux_adoption": 55.55555555555556, 
+        "nom": "Thomas Th\u00e9venoud", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/thomas-thevenoud/120", 
+        "sign\u00e9s": 36, 
+        "adopt\u00e9s": 20
+    }, 
+    "RRDP": {
+        "taux_adoption": 83.33333333333333, 
+        "nom": "J\u00e9r\u00f4me Lambert", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/jerome-lambert/120", 
+        "sign\u00e9s": 12, 
+        "adopt\u00e9s": 10
+    }, 
+    "ECOLO": {
+        "taux_adoption": 6.832298136645963, 
+        "nom": "V\u00e9ronique Massonneau", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/veronique-massonneau/120", 
+        "sign\u00e9s": 161, 
+        "adopt\u00e9s": 11
+    }, 
+    "UDI": {
+        "taux_adoption": 6.040268456375839, 
+        "nom": "Francis Vercamer", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/francis-vercamer/120", 
+        "sign\u00e9s": 149, 
+        "adopt\u00e9s": 9
+    }
+}

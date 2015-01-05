@@ -1,0 +1,51 @@
+{
+    "SRC": {
+        "taux_adoption": 97.22222222222223, 
+        "nom": "Pascal Popelin", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/pascal-popelin/120", 
+        "sign\u00e9s": 36, 
+        "adopt\u00e9s": 35
+    }, 
+    "GDR": {
+        "taux_adoption": 2.272727272727273, 
+        "nom": "Jacqueline Fraysse", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/jacqueline-fraysse/120", 
+        "sign\u00e9s": 44, 
+        "adopt\u00e9s": 1
+    }, 
+    "UMP": {
+        "taux_adoption": 11.956521739130435, 
+        "nom": "Guy Geoffroy", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/guy-geoffroy/120", 
+        "sign\u00e9s": 92, 
+        "adopt\u00e9s": 11
+    }, 
+    "NI": {
+        "taux_adoption": 52.63157894736842, 
+        "nom": "Thomas Th\u00e9venoud", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/thomas-thevenoud/120", 
+        "sign\u00e9s": 19, 
+        "adopt\u00e9s": 10
+    }, 
+    "RRDP": {
+        "taux_adoption": 100.0, 
+        "nom": "J\u00e9r\u00f4me Lambert", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/jerome-lambert/120", 
+        "sign\u00e9s": 2, 
+        "adopt\u00e9s": 2
+    }, 
+    "ECOLO": {
+        "taux_adoption": 4.761904761904762, 
+        "nom": "Fran\u00e7ois de Rugy", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/francois-de-rugy/120", 
+        "sign\u00e9s": 42, 
+        "adopt\u00e9s": 2
+    }, 
+    "UDI": {
+        "taux_adoption": 4.444444444444445, 
+        "nom": "Philippe Folliot", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/philippe-folliot/120", 
+        "sign\u00e9s": 45, 
+        "adopt\u00e9s": 2
+    }
+}

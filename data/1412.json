@@ -1,0 +1,44 @@
+{
+    "SRC": {
+        "taux_adoption": 88.0184331797235, 
+        "nom": "Val\u00e9rie Rabault", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/valerie-rabault/120", 
+        "sign\u00e9s": 217, 
+        "adopt\u00e9s": 191
+    }, 
+    "GDR": {
+        "taux_adoption": 9.523809523809524, 
+        "nom": "Marie-George Buffet", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/marie-george-buffet/120", 
+        "sign\u00e9s": 63, 
+        "adopt\u00e9s": 6
+    }, 
+    "UMP": {
+        "taux_adoption": 11.11111111111111, 
+        "nom": "Christian Kert", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/christian-kert/120", 
+        "sign\u00e9s": 36, 
+        "adopt\u00e9s": 4
+    }, 
+    "RRDP": {
+        "taux_adoption": 27.11864406779661, 
+        "nom": "Jo\u00ebl Giraud", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/joel-giraud/120", 
+        "sign\u00e9s": 59, 
+        "adopt\u00e9s": 16
+    }, 
+    "ECOLO": {
+        "taux_adoption": 19.402985074626866, 
+        "nom": "Eva Sas", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/eva-sas/120", 
+        "sign\u00e9s": 134, 
+        "adopt\u00e9s": 26
+    }, 
+    "UDI": {
+        "taux_adoption": 1.8518518518518519, 
+        "nom": "Yves J\u00e9go", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/yves-jego/120", 
+        "sign\u00e9s": 54, 
+        "adopt\u00e9s": 1
+    }
+}

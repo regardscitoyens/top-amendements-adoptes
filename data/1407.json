@@ -1,0 +1,51 @@
+{
+    "SRC": {
+        "taux_adoption": 96.66666666666667, 
+        "nom": "Germinal Peiro", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/germinal-peiro/120", 
+        "sign\u00e9s": 60, 
+        "adopt\u00e9s": 58
+    }, 
+    "GDR": {
+        "taux_adoption": 7.936507936507937, 
+        "nom": "Andr\u00e9 Chassaigne", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/andre-chassaigne/120", 
+        "sign\u00e9s": 63, 
+        "adopt\u00e9s": 5
+    }, 
+    "UMP": {
+        "taux_adoption": 8.720930232558139, 
+        "nom": "B\u00e9reng\u00e8re Poletti", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/berengere-poletti/120", 
+        "sign\u00e9s": 172, 
+        "adopt\u00e9s": 15
+    }, 
+    "NI": {
+        "taux_adoption": 84.21052631578948, 
+        "nom": "Thomas Th\u00e9venoud", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/thomas-thevenoud/120", 
+        "sign\u00e9s": 19, 
+        "adopt\u00e9s": 16
+    }, 
+    "RRDP": {
+        "taux_adoption": 22.22222222222222, 
+        "nom": "Dominique Orliac", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/dominique-orliac/120", 
+        "sign\u00e9s": 90, 
+        "adopt\u00e9s": 20
+    }, 
+    "ECOLO": {
+        "taux_adoption": 14.893617021276595, 
+        "nom": "Eva Sas", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/eva-sas/120", 
+        "sign\u00e9s": 94, 
+        "adopt\u00e9s": 14
+    }, 
+    "UDI": {
+        "taux_adoption": 4.678362573099415, 
+        "nom": "Jonas Tahuaitu", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/jonas-tahuaitu/120", 
+        "sign\u00e9s": 171, 
+        "adopt\u00e9s": 8
+    }
+}

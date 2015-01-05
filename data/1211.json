@@ -1,0 +1,51 @@
+{
+    "SRC": {
+        "taux_adoption": 87.03703703703704, 
+        "nom": "Christian Eckert", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/christian-eckert/120", 
+        "sign\u00e9s": 162, 
+        "adopt\u00e9s": 141
+    }, 
+    "GDR": {
+        "taux_adoption": 12.0, 
+        "nom": "Nicolas Sansu", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/nicolas-sansu/120", 
+        "sign\u00e9s": 50, 
+        "adopt\u00e9s": 6
+    }, 
+    "UMP": {
+        "taux_adoption": 11.904761904761905, 
+        "nom": "Genevi\u00e8ve Levy", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/genevieve-levy/120", 
+        "sign\u00e9s": 42, 
+        "adopt\u00e9s": 5
+    }, 
+    "NI": {
+        "taux_adoption": 50.0, 
+        "nom": "Thomas Th\u00e9venoud", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/thomas-thevenoud/120", 
+        "sign\u00e9s": 2, 
+        "adopt\u00e9s": 1
+    }, 
+    "RRDP": {
+        "taux_adoption": 10.0, 
+        "nom": "Paul Giacobbi", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/paul-giacobbi/120", 
+        "sign\u00e9s": 20, 
+        "adopt\u00e9s": 2
+    }, 
+    "ECOLO": {
+        "taux_adoption": 16.129032258064516, 
+        "nom": "Mich\u00e8le Bonneton", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/michele-bonneton/120", 
+        "sign\u00e9s": 31, 
+        "adopt\u00e9s": 5
+    }, 
+    "UDI": {
+        "taux_adoption": 5.555555555555555, 
+        "nom": "Philippe Vigier", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/philippe-vigier/120", 
+        "sign\u00e9s": 90, 
+        "adopt\u00e9s": 5
+    }
+}

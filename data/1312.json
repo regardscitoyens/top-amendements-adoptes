@@ -1,0 +1,51 @@
+{
+    "SRC": {
+        "taux_adoption": 92.0, 
+        "nom": "Christian Eckert", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/christian-eckert/120", 
+        "sign\u00e9s": 275, 
+        "adopt\u00e9s": 253
+    }, 
+    "GDR": {
+        "taux_adoption": 4.385964912280702, 
+        "nom": "Andr\u00e9 Chassaigne", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/andre-chassaigne/120", 
+        "sign\u00e9s": 114, 
+        "adopt\u00e9s": 5
+    }, 
+    "UMP": {
+        "taux_adoption": 9.48509485094851, 
+        "nom": "Martial Saddier", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/martial-saddier/120", 
+        "sign\u00e9s": 369, 
+        "adopt\u00e9s": 35
+    }, 
+    "NI": {
+        "taux_adoption": 17.142857142857142, 
+        "nom": "Annick Girardin", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/annick-girardin/120", 
+        "sign\u00e9s": 70, 
+        "adopt\u00e9s": 12
+    }, 
+    "RRDP": {
+        "taux_adoption": 17.54385964912281, 
+        "nom": "Jeanine Dubi\u00e9", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/jeanine-dubie/120", 
+        "sign\u00e9s": 114, 
+        "adopt\u00e9s": 20
+    }, 
+    "ECOLO": {
+        "taux_adoption": 11.2094395280236, 
+        "nom": "Brigitte Allain", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/brigitte-allain/120", 
+        "sign\u00e9s": 339, 
+        "adopt\u00e9s": 38
+    }, 
+    "UDI": {
+        "taux_adoption": 4.545454545454546, 
+        "nom": "Bertrand Pancher", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/bertrand-pancher/120", 
+        "sign\u00e9s": 198, 
+        "adopt\u00e9s": 9
+    }
+}

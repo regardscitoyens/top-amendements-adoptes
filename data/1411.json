@@ -1,0 +1,44 @@
+{
+    "SRC": {
+        "taux_adoption": 98.34710743801652, 
+        "nom": "G\u00e9rard Bapt", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/gerard-bapt/120", 
+        "sign\u00e9s": 121, 
+        "adopt\u00e9s": 119
+    }, 
+    "GDR": {
+        "taux_adoption": 9.803921568627452, 
+        "nom": "Andr\u00e9 Chassaigne", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/andre-chassaigne/120", 
+        "sign\u00e9s": 51, 
+        "adopt\u00e9s": 5
+    }, 
+    "UMP": {
+        "taux_adoption": 16.0, 
+        "nom": "Gilles Carrez", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/gilles-carrez/120", 
+        "sign\u00e9s": 50, 
+        "adopt\u00e9s": 8
+    }, 
+    "RRDP": {
+        "taux_adoption": 22.68041237113402, 
+        "nom": "Thierry Robert", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/thierry-robert/120", 
+        "sign\u00e9s": 97, 
+        "adopt\u00e9s": 22
+    }, 
+    "ECOLO": {
+        "taux_adoption": 9.82905982905983, 
+        "nom": "Sergio Coronado", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/sergio-coronado/120", 
+        "sign\u00e9s": 234, 
+        "adopt\u00e9s": 23
+    }, 
+    "UDI": {
+        "taux_adoption": 3.883495145631068, 
+        "nom": "Charles de Courson", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/charles-de-courson/120", 
+        "sign\u00e9s": 206, 
+        "adopt\u00e9s": 8
+    }
+}

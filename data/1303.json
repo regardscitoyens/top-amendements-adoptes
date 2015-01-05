@@ -1,0 +1,51 @@
+{
+    "SRC": {
+        "taux_adoption": 62.5, 
+        "nom": "Jean-Marc Germain", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/jean-marc-germain/120", 
+        "sign\u00e9s": 48, 
+        "adopt\u00e9s": 30
+    }, 
+    "GDR": {
+        "taux_adoption": 3.1847133757961785, 
+        "nom": "Jacqueline Fraysse", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/jacqueline-fraysse/120", 
+        "sign\u00e9s": 157, 
+        "adopt\u00e9s": 5
+    }, 
+    "UMP": {
+        "taux_adoption": 2.159827213822894, 
+        "nom": "Jean-Pierre Decool", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/jean-pierre-decool/120", 
+        "sign\u00e9s": 463, 
+        "adopt\u00e9s": 10
+    }, 
+    "NI": {
+        "taux_adoption": 61.904761904761905, 
+        "nom": "Thomas Th\u00e9venoud", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/thomas-thevenoud/120", 
+        "sign\u00e9s": 21, 
+        "adopt\u00e9s": 13
+    }, 
+    "RRDP": {
+        "taux_adoption": 4.878048780487805, 
+        "nom": "Alain Tourret", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/alain-tourret/120", 
+        "sign\u00e9s": 41, 
+        "adopt\u00e9s": 2
+    }, 
+    "ECOLO": {
+        "taux_adoption": 12.76595744680851, 
+        "nom": "Fran\u00e7ois de Rugy", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/francois-de-rugy/120", 
+        "sign\u00e9s": 94, 
+        "adopt\u00e9s": 12
+    }, 
+    "UDI": {
+        "taux_adoption": 7.894736842105263, 
+        "nom": "Michel Piron", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/michel-piron/120", 
+        "sign\u00e9s": 38, 
+        "adopt\u00e9s": 3
+    }
+}
