@@ -22,4 +22,4 @@ Baromètre amendements adoptés L'Hémicycle
   python build_month.py 1305 senateur
 ```
 
-Données issues de [NosDéputés.fr](http://www.nosdeputes.fr) par Regards Citoyens](http://www.regardscitoyens.org) sous [licence ODBL](http://vvlibri.org/fr/licence/odbl/10/fr/legalcode) pour le mensuel [L'Hémicycle](http://www.lhemicycle.com/).
+Données issues de [NosDéputés.fr](http://www.nosdeputes.fr) par [Regards Citoyens](http://www.regardscitoyens.org) sous [licence ODBL](http://vvlibri.org/fr/licence/odbl/10/fr/legalcode) pour le mensuel [L'Hémicycle](http://www.lhemicycle.com/).
