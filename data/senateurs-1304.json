@@ -1,0 +1,44 @@
+{
+    "SOC": {
+        "taux_adoption": 88.88888888888889, 
+        "nom": "Michel Delebarre", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/michel-delebarre/120", 
+        "sign\u00e9s": 9, 
+        "adopt\u00e9s": 8
+    }, 
+    "UMP": {
+        "taux_adoption": 7.407407407407407, 
+        "nom": "Bruno Gilles", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/bruno-gilles/120", 
+        "sign\u00e9s": 27, 
+        "adopt\u00e9s": 2
+    }, 
+    "ECO": {
+        "taux_adoption": 1.7241379310344827, 
+        "nom": "Aline Archimbaud", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/aline-archimbaud/120", 
+        "sign\u00e9s": 58, 
+        "adopt\u00e9s": 1
+    }, 
+    "RDSE": {
+        "taux_adoption": 16.0, 
+        "nom": "St\u00e9phane Mazars", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/stephane-mazars/120", 
+        "sign\u00e9s": 25, 
+        "adopt\u00e9s": 4
+    }, 
+    "CRC": {
+        "taux_adoption": 38.888888888888886, 
+        "nom": "\u00c9liane Assassi", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/eliane-assassi/120", 
+        "sign\u00e9s": 18, 
+        "adopt\u00e9s": 7
+    }, 
+    "UDI": {
+        "taux_adoption": 20.0, 
+        "nom": "Fran\u00e7ois Zocchetto", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/francois-zocchetto/120", 
+        "sign\u00e9s": 30, 
+        "adopt\u00e9s": 6
+    }
+}

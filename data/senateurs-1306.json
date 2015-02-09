@@ -1,0 +1,51 @@
+{
+    "NI": {
+        "taux_adoption": 8.0, 
+        "nom": "Jean Louis Masson", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/jean-louis-masson/120", 
+        "sign\u00e9s": 25, 
+        "adopt\u00e9s": 2
+    }, 
+    "SOC": {
+        "taux_adoption": 72.22222222222223, 
+        "nom": "Ren\u00e9 Vandierendonck", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/rene-vandierendonck/120", 
+        "sign\u00e9s": 18, 
+        "adopt\u00e9s": 13
+    }, 
+    "UMP": {
+        "taux_adoption": 14.851485148514852, 
+        "nom": "Caroline Cayeux", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/caroline-cayeux/120", 
+        "sign\u00e9s": 101, 
+        "adopt\u00e9s": 15
+    }, 
+    "ECO": {
+        "taux_adoption": 20.689655172413794, 
+        "nom": "Andr\u00e9 Gattolin", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/andre-gattolin/120", 
+        "sign\u00e9s": 29, 
+        "adopt\u00e9s": 6
+    }, 
+    "RDSE": {
+        "taux_adoption": 18.181818181818183, 
+        "nom": "Yvon Collin", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/yvon-collin/120", 
+        "sign\u00e9s": 44, 
+        "adopt\u00e9s": 8
+    }, 
+    "CRC": {
+        "taux_adoption": 9.090909090909092, 
+        "nom": "Brigitte Gonthier-Maurin", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/brigitte-gonthier-maurin/120", 
+        "sign\u00e9s": 66, 
+        "adopt\u00e9s": 6
+    }, 
+    "UDI": {
+        "taux_adoption": 27.586206896551722, 
+        "nom": "Val\u00e9rie L\u00e9tard", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/valerie-letard/120", 
+        "sign\u00e9s": 29, 
+        "adopt\u00e9s": 8
+    }
+}

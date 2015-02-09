@@ -1,0 +1,51 @@
+{
+    "NI": {
+        "taux_adoption": 28.571428571428573, 
+        "nom": "Jean-No\u00ebl Gu\u00e9rini", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/jean-noel-guerini/120", 
+        "sign\u00e9s": 7, 
+        "adopt\u00e9s": 2
+    }, 
+    "SOC": {
+        "taux_adoption": 62.0253164556962, 
+        "nom": "Yannick Vaugrenard", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/yannick-vaugrenard/120", 
+        "sign\u00e9s": 79, 
+        "adopt\u00e9s": 49
+    }, 
+    "UMP": {
+        "taux_adoption": 25.735294117647058, 
+        "nom": "Esther Sittler", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/esther-sittler/120", 
+        "sign\u00e9s": 136, 
+        "adopt\u00e9s": 35
+    }, 
+    "ECO": {
+        "taux_adoption": 27.710843373493976, 
+        "nom": "Jean-Vincent Plac\u00e9", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/jean-vincent-place/120", 
+        "sign\u00e9s": 83, 
+        "adopt\u00e9s": 23
+    }, 
+    "RDSE": {
+        "taux_adoption": 39.473684210526315, 
+        "nom": "Jacques M\u00e9zard", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/jacques-mezard/120", 
+        "sign\u00e9s": 114, 
+        "adopt\u00e9s": 45
+    }, 
+    "CRC": {
+        "taux_adoption": 19.00826446280992, 
+        "nom": "G\u00e9rard Le Cam", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/gerard-le-cam/120", 
+        "sign\u00e9s": 121, 
+        "adopt\u00e9s": 23
+    }, 
+    "UDI": {
+        "taux_adoption": 13.68421052631579, 
+        "nom": "Jo\u00ebl Guerriau", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/joel-guerriau/120", 
+        "sign\u00e9s": 190, 
+        "adopt\u00e9s": 26
+    }
+}

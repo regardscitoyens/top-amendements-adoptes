@@ -1,0 +1,51 @@
+{
+    "NI": {
+        "taux_adoption": 33.333333333333336, 
+        "nom": "Jean Louis Masson", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/jean-louis-masson/120", 
+        "sign\u00e9s": 3, 
+        "adopt\u00e9s": 1
+    }, 
+    "SOC": {
+        "taux_adoption": 37.5, 
+        "nom": "Yves Daudigny", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/yves-daudigny/120", 
+        "sign\u00e9s": 24, 
+        "adopt\u00e9s": 9
+    }, 
+    "UMP": {
+        "taux_adoption": 83.33333333333333, 
+        "nom": "Philippe Marini", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/philippe-marini/120", 
+        "sign\u00e9s": 6, 
+        "adopt\u00e9s": 5
+    }, 
+    "ECO": {
+        "taux_adoption": 33.333333333333336, 
+        "nom": "Andr\u00e9 Gattolin", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/andre-gattolin/120", 
+        "sign\u00e9s": 24, 
+        "adopt\u00e9s": 8
+    }, 
+    "RDSE": {
+        "taux_adoption": 28.571428571428573, 
+        "nom": "Pierre-Yves Collombat", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/pierre-yves-collombat/120", 
+        "sign\u00e9s": 14, 
+        "adopt\u00e9s": 4
+    }, 
+    "CRC": {
+        "taux_adoption": 2.2222222222222223, 
+        "nom": "Marie-France Beaufils", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/marie-france-beaufils/120", 
+        "sign\u00e9s": 45, 
+        "adopt\u00e9s": 1
+    }, 
+    "UDI": {
+        "taux_adoption": 63.63636363636363, 
+        "nom": "Jean-L\u00e9once Dupont", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/jean-leonce-dupont/120", 
+        "sign\u00e9s": 11, 
+        "adopt\u00e9s": 7
+    }
+}

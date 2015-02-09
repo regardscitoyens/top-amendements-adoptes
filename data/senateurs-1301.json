@@ -1,0 +1,51 @@
+{
+    "NI": {
+        "taux_adoption": 13.793103448275861, 
+        "nom": "Jean Louis Masson", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/jean-louis-masson/120", 
+        "sign\u00e9s": 29, 
+        "adopt\u00e9s": 4
+    }, 
+    "SOC": {
+        "taux_adoption": 75.0, 
+        "nom": "Michel Delebarre", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/michel-delebarre/120", 
+        "sign\u00e9s": 8, 
+        "adopt\u00e9s": 6
+    }, 
+    "UMP": {
+        "taux_adoption": 25.0, 
+        "nom": "Caroline Cayeux", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/caroline-cayeux/120", 
+        "sign\u00e9s": 56, 
+        "adopt\u00e9s": 14
+    }, 
+    "ECO": {
+        "taux_adoption": 16.666666666666668, 
+        "nom": "H\u00e9l\u00e8ne Lipietz", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/helene-lipietz/120", 
+        "sign\u00e9s": 48, 
+        "adopt\u00e9s": 8
+    }, 
+    "RDSE": {
+        "taux_adoption": 21.428571428571427, 
+        "nom": "Robert Tropeano", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/robert-tropeano/120", 
+        "sign\u00e9s": 42, 
+        "adopt\u00e9s": 9
+    }, 
+    "CRC": {
+        "taux_adoption": 18.51851851851852, 
+        "nom": "\u00c9liane Assassi", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/eliane-assassi/120", 
+        "sign\u00e9s": 27, 
+        "adopt\u00e9s": 5
+    }, 
+    "UDI": {
+        "taux_adoption": 21.27659574468085, 
+        "nom": "Sophie Joissains", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/sophie-joissains/120", 
+        "sign\u00e9s": 47, 
+        "adopt\u00e9s": 10
+    }
+}

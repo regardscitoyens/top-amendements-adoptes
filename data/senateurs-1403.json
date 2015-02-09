@@ -1,0 +1,16 @@
+{
+    "SOC": {
+        "taux_adoption": 100.0, 
+        "nom": "Bernadette Bourzai", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/bernadette-bourzai/120", 
+        "sign\u00e9s": 1, 
+        "adopt\u00e9s": 1
+    }, 
+    "UMP": {
+        "taux_adoption": 100.0, 
+        "nom": "Michel Magras", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/michel-magras/120", 
+        "sign\u00e9s": 1, 
+        "adopt\u00e9s": 1
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "SRC": {
+        "taux_adoption": 57.69230769230769, 
+        "nom": "Richard Ferrand", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/richard-ferrand/120", 
+        "sign\u00e9s": 676, 
+        "adopt\u00e9s": 390
+    }, 
+    "GDR": {
+        "taux_adoption": 2.051282051282051, 
+        "nom": "Nicolas Sansu", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/nicolas-sansu/120", 
+        "sign\u00e9s": 195, 
+        "adopt\u00e9s": 4
+    }, 
+    "UMP": {
+        "taux_adoption": 4.361370716510903, 
+        "nom": "Jean-Fr\u00e9d\u00e9ric Poisson", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/jean-frederic-poisson/120", 
+        "sign\u00e9s": 321, 
+        "adopt\u00e9s": 14
+    }, 
+    "NI": {
+        "taux_adoption": 8.333333333333334, 
+        "nom": "V\u00e9ronique Besse", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/veronique-besse/120", 
+        "sign\u00e9s": 12, 
+        "adopt\u00e9s": 1
+    }, 
+    "RRDP": {
+        "taux_adoption": 30.405405405405407, 
+        "nom": "Alain Tourret", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/alain-tourret/120", 
+        "sign\u00e9s": 592, 
+        "adopt\u00e9s": 180
+    }, 
+    "ECOLO": {
+        "taux_adoption": 8.310249307479225, 
+        "nom": "Eva Sas", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/eva-sas/120", 
+        "sign\u00e9s": 361, 
+        "adopt\u00e9s": 30
+    }, 
+    "UDI": {
+        "taux_adoption": 5.666666666666667, 
+        "nom": "Jean-Christophe Fromantin", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/jean-christophe-fromantin/120", 
+        "sign\u00e9s": 300, 
+        "adopt\u00e9s": 17
+    }
+}

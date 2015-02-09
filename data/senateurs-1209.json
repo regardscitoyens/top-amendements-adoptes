@@ -1,0 +1,44 @@
+{
+    "SOC": {
+        "taux_adoption": 100.0, 
+        "nom": "Claude B\u00e9rit-D\u00e9bat", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/claude-berit-debat/120", 
+        "sign\u00e9s": 14, 
+        "adopt\u00e9s": 14
+    }, 
+    "UMP": {
+        "taux_adoption": 9.375, 
+        "nom": "Philippe Dallier", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/philippe-dallier/120", 
+        "sign\u00e9s": 32, 
+        "adopt\u00e9s": 3
+    }, 
+    "ECO": {
+        "taux_adoption": 16.216216216216218, 
+        "nom": "Aline Archimbaud", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/aline-archimbaud/120", 
+        "sign\u00e9s": 37, 
+        "adopt\u00e9s": 6
+    }, 
+    "RDSE": {
+        "taux_adoption": 28.571428571428573, 
+        "nom": "Raymond Vall", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/raymond-vall/120", 
+        "sign\u00e9s": 21, 
+        "adopt\u00e9s": 6
+    }, 
+    "CRC": {
+        "taux_adoption": 21.05263157894737, 
+        "nom": "G\u00e9rard Le Cam", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/gerard-le-cam/120", 
+        "sign\u00e9s": 19, 
+        "adopt\u00e9s": 4
+    }, 
+    "UDI": {
+        "taux_adoption": 17.391304347826086, 
+        "nom": "Val\u00e9rie L\u00e9tard", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/valerie-letard/120", 
+        "sign\u00e9s": 23, 
+        "adopt\u00e9s": 4
+    }
+}

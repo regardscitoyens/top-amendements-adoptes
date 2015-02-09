@@ -5,25 +5,27 @@ import os.path, sys, requests, json
 from pprint import pprint
 
 date = sys.argv[1]
-print date
+typeparl = sys.argv[2]
+typeparls = "%ss" % typeparl
+print typeparls, date
 for dirs in [".cache", "data"]:
     if not os.path.isdir(dirs):
         os.makedirs(dirs)
 
-dep_file = os.path.join(".cache", "deputes.json")
-if not os.path.isfile(dep_file):
-    deputes = {str(d["depute"]["id"]): d["depute"]["slug"] for d in requests.get("http://www.nosdeputes.fr/deputes/json").json()["deputes"]}
-    with open(dep_file, "w") as f:
-        json.dump(deputes, f)
+parl_file = os.path.join(".cache", "%s.json" % typeparls)
+if not os.path.isfile(parl_file):
+    parls = {str(d[typeparl]["id"]): d[typeparl]["slug"] for d in requests.get("http://www.nos%s.fr/%s/json" % (typeparls, typeparls)).json()[typeparls]}
+    with open(parl_file, "w") as f:
+        json.dump(parls, f)
 else:
-    with open(dep_file, "r") as f:
-        deputes = json.load(f)
+    with open(parl_file, "r") as f:
+        parls = json.load(f)
 
-data = requests.get("http://www.nosdeputes.fr/synthese/%s/json" % date).json()["deputes"]
+data = requests.get("http://www.nos%s.fr/synthese/%s/json" % (typeparls, date)).json()[typeparls]
 
 groupes = {}
-for dep in data:
-    d = dep["depute"]
+for parl in data:
+    d = parl[typeparl]
     d[u"signés"] = int(d["amendements_signes"])
     d[u"adoptés"] = int(d["amendements_adoptes"])
     d["taux_adoption"] = 100 * float(d[u"adoptés"]) / d[u"signés"] if d[u"signés"] else 0
@@ -35,9 +37,9 @@ for dep in data:
           u"signés": d[u"signés"],
           u"adoptés": d[u"adoptés"],
           "taux_adoption": d["taux_adoption"],
-          "photo": "http://www.nosdeputes.fr/depute/photo/%s/120" % deputes[str(d["id"])]
+          "photo": "http://www.nos%s.fr/%s/photo/%s/120" % (typeparls, typeparl, parls[str(d["id"])])
         }
 
 
-with open(os.path.join("data", "%s.json" % date), "w") as f:
+with open(os.path.join("data", "%s-%s.json" % (typeparls, date)), "w") as f:
     json.dump(groupes, f, indent=4)

@@ -1,0 +1,44 @@
+{
+    "NI": {
+        "taux_adoption": 89.65517241379311, 
+        "nom": "Robert Navarro", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/robert-navarro/120", 
+        "sign\u00e9s": 29, 
+        "adopt\u00e9s": 26
+    }, 
+    "SOC": {
+        "taux_adoption": 87.5, 
+        "nom": "Michel Teston", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/michel-teston/120", 
+        "sign\u00e9s": 32, 
+        "adopt\u00e9s": 28
+    }, 
+    "UMP": {
+        "taux_adoption": 14.0, 
+        "nom": "Jean-Claude Lenoir", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/jean-claude-lenoir/120", 
+        "sign\u00e9s": 50, 
+        "adopt\u00e9s": 7
+    }, 
+    "RDSE": {
+        "taux_adoption": 89.65517241379311, 
+        "nom": "Philippe Esnol", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/philippe-esnol/120", 
+        "sign\u00e9s": 29, 
+        "adopt\u00e9s": 26
+    }, 
+    "CRC": {
+        "taux_adoption": 55.55555555555556, 
+        "nom": "\u00c9liane Assassi", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/eliane-assassi/120", 
+        "sign\u00e9s": 27, 
+        "adopt\u00e9s": 15
+    }, 
+    "UDI": {
+        "taux_adoption": 16.0, 
+        "nom": "Jean-Claude Merceron", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/jean-claude-merceron/120", 
+        "sign\u00e9s": 25, 
+        "adopt\u00e9s": 4
+    }
+}

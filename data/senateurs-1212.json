@@ -1,0 +1,44 @@
+{
+    "SOC": {
+        "taux_adoption": 69.44444444444444, 
+        "nom": "Fran\u00e7ois Marc", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/francois-marc/120", 
+        "sign\u00e9s": 36, 
+        "adopt\u00e9s": 25
+    }, 
+    "UMP": {
+        "taux_adoption": 18.75, 
+        "nom": "Charles Guen\u00e9", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/charles-guene/120", 
+        "sign\u00e9s": 16, 
+        "adopt\u00e9s": 3
+    }, 
+    "ECO": {
+        "taux_adoption": 14.814814814814815, 
+        "nom": "Jean-Vincent Plac\u00e9", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/jean-vincent-place/120", 
+        "sign\u00e9s": 27, 
+        "adopt\u00e9s": 4
+    }, 
+    "RDSE": {
+        "taux_adoption": 16.216216216216218, 
+        "nom": "Raymond Vall", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/raymond-vall/120", 
+        "sign\u00e9s": 37, 
+        "adopt\u00e9s": 6
+    }, 
+    "CRC": {
+        "taux_adoption": 8.0, 
+        "nom": "Marie-France Beaufils", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/marie-france-beaufils/120", 
+        "sign\u00e9s": 75, 
+        "adopt\u00e9s": 6
+    }, 
+    "UDI": {
+        "taux_adoption": 10.526315789473685, 
+        "nom": "Yves D\u00e9traigne", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/yves-detraigne/120", 
+        "sign\u00e9s": 19, 
+        "adopt\u00e9s": 2
+    }
+}

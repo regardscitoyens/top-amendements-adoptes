@@ -7,10 +7,10 @@
         "adopt\u00e9s": 96
     }, 
     "GDR": {
-        "taux_adoption": 5.454545454545454, 
+        "taux_adoption": 5.325443786982248, 
         "nom": "Andr\u00e9 Chassaigne", 
         "photo": "http://www.nosdeputes.fr/depute/photo/andre-chassaigne/120", 
-        "sign\u00e9s": 165, 
+        "sign\u00e9s": 169, 
         "adopt\u00e9s": 9
     }, 
     "UMP": {
@@ -20,6 +20,13 @@
         "sign\u00e9s": 127, 
         "adopt\u00e9s": 14
     }, 
+    "NI": {
+        "taux_adoption": 50.0, 
+        "nom": "Nicolas Dupont-Aignan", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/nicolas-dupont-aignan/120", 
+        "sign\u00e9s": 2, 
+        "adopt\u00e9s": 1
+    }, 
     "RRDP": {
         "taux_adoption": 11.627906976744185, 
         "nom": "Roger-G\u00e9rard Schwartzenberg", 
@@ -28,11 +35,11 @@
         "adopt\u00e9s": 20
     }, 
     "ECOLO": {
-        "taux_adoption": 25.07645259938838, 
+        "taux_adoption": 25.0, 
         "nom": "Denis Baupin", 
         "photo": "http://www.nosdeputes.fr/depute/photo/denis-baupin/120", 
-        "sign\u00e9s": 327, 
-        "adopt\u00e9s": 82
+        "sign\u00e9s": 332, 
+        "adopt\u00e9s": 83
     }, 
     "UDI": {
         "taux_adoption": 4.9504950495049505, 

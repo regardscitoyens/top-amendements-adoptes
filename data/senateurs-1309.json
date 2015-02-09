@@ -1,0 +1,51 @@
+{
+    "NI": {
+        "taux_adoption": 50.0, 
+        "nom": "Robert Navarro", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/robert-navarro/120", 
+        "sign\u00e9s": 2, 
+        "adopt\u00e9s": 1
+    }, 
+    "SOC": {
+        "taux_adoption": 65.0, 
+        "nom": "Alain Fauconnier", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/alain-fauconnier/120", 
+        "sign\u00e9s": 40, 
+        "adopt\u00e9s": 26
+    }, 
+    "UMP": {
+        "taux_adoption": 12.987012987012987, 
+        "nom": "\u00c9lisabeth Lamure", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/elisabeth-lamure/120", 
+        "sign\u00e9s": 77, 
+        "adopt\u00e9s": 10
+    }, 
+    "ECO": {
+        "taux_adoption": 12.121212121212121, 
+        "nom": "Jo\u00ebl Labb\u00e9", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/joel-labbe/120", 
+        "sign\u00e9s": 66, 
+        "adopt\u00e9s": 8
+    }, 
+    "RDSE": {
+        "taux_adoption": 22.093023255813954, 
+        "nom": "Fran\u00e7oise Laborde", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/francoise-laborde/120", 
+        "sign\u00e9s": 86, 
+        "adopt\u00e9s": 19
+    }, 
+    "CRC": {
+        "taux_adoption": 22.0, 
+        "nom": "Brigitte Gonthier-Maurin", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/brigitte-gonthier-maurin/120", 
+        "sign\u00e9s": 50, 
+        "adopt\u00e9s": 11
+    }, 
+    "UDI": {
+        "taux_adoption": 19.696969696969695, 
+        "nom": "Muguette Dini", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/muguette-dini/120", 
+        "sign\u00e9s": 66, 
+        "adopt\u00e9s": 13
+    }
+}

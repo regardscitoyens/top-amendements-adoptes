@@ -1,12 +1,17 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-import os, json
+import os, json, sys
 from datetime import date
 from subprocess import call
 
-since = (12, 6)
+typeparl = sys.argv[1] if len(sys.argv) > 1 else "deputes"
 
+parl_file = os.path.join(".cache", "%s.json" % typeparl)
+if os.path.isfile(parl_file):
+    os.remove(parl_file)
+
+since = (12, 6)
 now = (date.today().year - 2000, date.today().month)
 
 months = []
@@ -14,9 +19,9 @@ groupes = []
 
 while since < now:
     date = "%02d%02d" % since
-    month_file = os.path.join("data", "%s.json" % date)
+    month_file = os.path.join("data", "%s-%s.json" % (typeparl, date))
     if not os.path.isfile(month_file):
-        call(["python", "build_month.py", date])
+        call(["python", "build_month.py", date, typeparl.rstrip('s')])
     with open(month_file) as f:
         data = json.load(f)
     month = {
@@ -35,7 +40,7 @@ while since < now:
         since = (since[0], since[1] + 1)
 
 headers = [u"année", "mois"] + groupes
-with open(os.path.join("data", "tops.csv"), "w") as f:
+with open(os.path.join("data", "%s-tops.csv" % typeparl), "w") as f:
     print >> f, ",".join([h.encode("utf-8") for h in headers])
     for m in months:
         print >> f, ",".join([m[h].encode("utf-8") if h in m else "" for h in headers])

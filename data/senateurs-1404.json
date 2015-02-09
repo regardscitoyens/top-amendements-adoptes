@@ -1,0 +1,51 @@
+{
+    "NI": {
+        "taux_adoption": 75.0, 
+        "nom": "Robert Navarro", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/robert-navarro/120", 
+        "sign\u00e9s": 8, 
+        "adopt\u00e9s": 6
+    }, 
+    "SOC": {
+        "taux_adoption": 66.66666666666667, 
+        "nom": "Yannick Vaugrenard", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/yannick-vaugrenard/120", 
+        "sign\u00e9s": 81, 
+        "adopt\u00e9s": 54
+    }, 
+    "UMP": {
+        "taux_adoption": 15.555555555555555, 
+        "nom": "Ren\u00e9-Paul Savary", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/rene-paul-savary/120", 
+        "sign\u00e9s": 135, 
+        "adopt\u00e9s": 21
+    }, 
+    "ECO": {
+        "taux_adoption": 12.5, 
+        "nom": "Jo\u00ebl Labb\u00e9", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/joel-labbe/120", 
+        "sign\u00e9s": 88, 
+        "adopt\u00e9s": 11
+    }, 
+    "RDSE": {
+        "taux_adoption": 16.949152542372882, 
+        "nom": "Nicolas Alfonsi", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/nicolas-alfonsi/120", 
+        "sign\u00e9s": 59, 
+        "adopt\u00e9s": 10
+    }, 
+    "CRC": {
+        "taux_adoption": 17.857142857142858, 
+        "nom": "G\u00e9rard Le Cam", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/gerard-le-cam/120", 
+        "sign\u00e9s": 84, 
+        "adopt\u00e9s": 15
+    }, 
+    "UDI": {
+        "taux_adoption": 25.0, 
+        "nom": "Henri Tandonnet", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/henri-tandonnet/120", 
+        "sign\u00e9s": 60, 
+        "adopt\u00e9s": 15
+    }
+}

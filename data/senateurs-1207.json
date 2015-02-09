@@ -1,0 +1,44 @@
+{
+    "SOC": {
+        "taux_adoption": 78.94736842105263, 
+        "nom": "Fran\u00e7ois Marc", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/francois-marc/120", 
+        "sign\u00e9s": 19, 
+        "adopt\u00e9s": 15
+    }, 
+    "UMP": {
+        "taux_adoption": 100.0, 
+        "nom": "Jean-Jacques Hyest", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/jean-jacques-hyest/120", 
+        "sign\u00e9s": 2, 
+        "adopt\u00e9s": 2
+    }, 
+    "ECO": {
+        "taux_adoption": 50.0, 
+        "nom": "Aline Archimbaud", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/aline-archimbaud/120", 
+        "sign\u00e9s": 6, 
+        "adopt\u00e9s": 3
+    }, 
+    "RDSE": {
+        "taux_adoption": 10.526315789473685, 
+        "nom": "Robert Hue", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/robert-hue/120", 
+        "sign\u00e9s": 19, 
+        "adopt\u00e9s": 2
+    }, 
+    "CRC": {
+        "taux_adoption": 12.0, 
+        "nom": "Laurence Cohen", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/laurence-cohen/120", 
+        "sign\u00e9s": 25, 
+        "adopt\u00e9s": 3
+    }, 
+    "UDI": {
+        "taux_adoption": 66.66666666666667, 
+        "nom": "Pierre Jarlier", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/pierre-jarlier/120", 
+        "sign\u00e9s": 3, 
+        "adopt\u00e9s": 2
+    }
+}

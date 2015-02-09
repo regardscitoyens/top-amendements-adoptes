@@ -1,0 +1,44 @@
+{
+    "SOC": {
+        "taux_adoption": 100.0, 
+        "nom": "Fran\u00e7ois Marc", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/francois-marc/120", 
+        "sign\u00e9s": 32, 
+        "adopt\u00e9s": 32
+    }, 
+    "UMP": {
+        "taux_adoption": 45.45454545454545, 
+        "nom": "Christian Cambon", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/christian-cambon/120", 
+        "sign\u00e9s": 11, 
+        "adopt\u00e9s": 5
+    }, 
+    "ECO": {
+        "taux_adoption": 42.857142857142854, 
+        "nom": "Ronan Dantec", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/ronan-dantec/120", 
+        "sign\u00e9s": 28, 
+        "adopt\u00e9s": 12
+    }, 
+    "RDSE": {
+        "taux_adoption": 77.77777777777777, 
+        "nom": "Robert Tropeano", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/robert-tropeano/120", 
+        "sign\u00e9s": 9, 
+        "adopt\u00e9s": 7
+    }, 
+    "CRC": {
+        "taux_adoption": 20.0, 
+        "nom": "Michel Billout", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/michel-billout/120", 
+        "sign\u00e9s": 20, 
+        "adopt\u00e9s": 4
+    }, 
+    "UDI": {
+        "taux_adoption": 50.0, 
+        "nom": "Herv\u00e9 Maurey", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/herve-maurey/120", 
+        "sign\u00e9s": 18, 
+        "adopt\u00e9s": 9
+    }
+}
