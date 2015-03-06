@@ -14,7 +14,9 @@ for dirs in [".cache", "data"]:
 
 parl_file = os.path.join(".cache", "%s.json" % typeparls)
 if not os.path.isfile(parl_file):
-    parls = {str(d[typeparl]["id"]): d[typeparl]["slug"] for d in requests.get("http://www.nos%s.fr/%s/json" % (typeparls, typeparls)).json()[typeparls]}
+    parls = {}
+    for d in requests.get("http://www.nos%s.fr/%s/json" % (typeparls, typeparls)).json()[typeparls]:
+        parls[str(d[typeparl]["id"])] = d[typeparl]["slug"]
     with open(parl_file, "w") as f:
         json.dump(parls, f)
 else:
