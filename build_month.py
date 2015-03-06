@@ -1,45 +1,64 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
+from __future__ import division
 
-import os.path, sys, requests, json
-from pprint import pprint
-
-date = sys.argv[1]
-typeparl = sys.argv[2]
-typeparls = "%ss" % typeparl
-print typeparls, date
-for dirs in [".cache", "data"]:
-    if not os.path.isdir(dirs):
-        os.makedirs(dirs)
-
-parl_file = os.path.join(".cache", "%s.json" % typeparls)
-if not os.path.isfile(parl_file):
-    parls = {str(d[typeparl]["id"]): d[typeparl]["slug"] for d in requests.get("http://www.nos%s.fr/%s/json" % (typeparls, typeparls)).json()[typeparls]}
-    with open(parl_file, "w") as f:
-        json.dump(parls, f)
-else:
-    with open(parl_file, "r") as f:
-        parls = json.load(f)
-
-data = requests.get("http://www.nos%s.fr/synthese/%s/json" % (typeparls, date)).json()[typeparls]
-
-groupes = {}
-for parl in data:
-    d = parl[typeparl]
-    d[u"signés"] = int(d["amendements_signes"])
-    d[u"adoptés"] = int(d["amendements_adoptes"])
-    d["taux_adoption"] = 100 * float(d[u"adoptés"]) / d[u"signés"] if d[u"signés"] else 0
-    if d[u"adoptés"] and (d["groupe"] not in groupes or \
-      groupes[d["groupe"]][u"adoptés"] < d[u"adoptés"] or \
-      (groupes[d["groupe"]][u"adoptés"] == d[u"adoptés"] and groupes[d["groupe"]]["taux_adoption"] < d["taux_adoption"])):
-        groupes[d["groupe"]] = {
-          "nom": d["nom"],
-          u"signés": d[u"signés"],
-          u"adoptés": d[u"adoptés"],
-          "taux_adoption": d["taux_adoption"],
-          "photo": "http://www.nos%s.fr/%s/photo/%s/120" % (typeparls, typeparl, parls[str(d["id"])])
-        }
+from cpc_api import CPCApi
+import os.path
+import sys
+import json
 
 
-with open(os.path.join("data", "%s-%s.json" % (typeparls, date)), "w") as f:
-    json.dump(groupes, f, indent=4)
+def get_or_set_cache(name, func, cache_dir='.cache'):
+    if not os.path.isdir(cache_dir):
+        os.makedirs(cache_dir)
+
+    file_path = os.path.join(cache_dir, name)
+
+    if not os.path.isfile(file_path):
+        data = func()
+        with open(file_path, "w") as f:
+            json.dump(data, f)
+    else:
+        data = json.load(open(file_path))
+
+    return data
+
+
+def get_month_data(typeparls, date):
+    api = CPCApi(ptype=typeparls[:-1])
+
+    parls = get_or_set_cache("%s.json" % typeparls, lambda: dict((str(parl_['id']), parl_) for parl_ in api.parlementaires()))
+    synthese = api.synthese(date)
+
+    groupes = {}
+
+    for parl in synthese:
+        parl[u"signés"] = int(parl["amendements_signes"])
+        parl[u"adoptés"] = int(parl["amendements_adoptes"])
+        parl["taux_adoption"] = 100 * parl[u"adoptés"] / parl[u"signés"] if parl[u"signés"] else 0
+
+        parl_groupe = parl["groupe"]
+        if parl[u"adoptés"] and (parl_groupe not in groupes or \
+            groupes[parl_groupe][u"adoptés"] < parl[u"adoptés"] or \
+            (groupes[parl_groupe][u"adoptés"] == parl[u"adoptés"] and groupes[parl_groupe][
+            "taux_adoption"] < parl["taux_adoption"])):
+
+            groupes[parl_groupe] = {
+                "nom": parl["nom"],
+                u"signés": parl[u"signés"],
+                u"adoptés": parl[u"adoptés"],
+                "taux_adoption": parl["taux_adoption"],
+                "photo": api.picture_url(parls[str(parl["id"])]["slug"], pixels="120")
+            }
+
+    return groupes
+
+
+if __name__ == '__main__':
+    date = sys.argv[1]
+    typeparls = sys.argv[2]
+
+    print typeparls, date
+
+    with open(os.path.join("data", "%s-%s.json" % (typeparls, date)), "w") as f:
+        json.dump(get_month_data(typeparls, date), f, indent=4)
