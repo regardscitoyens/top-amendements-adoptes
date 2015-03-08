@@ -1,1 +1,2 @@
 cpc_api
+virtualenvwrapper
