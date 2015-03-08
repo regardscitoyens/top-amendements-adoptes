@@ -30,3 +30,13 @@ month=`ls data/deputes-*.json | tail -1 | sed 's/[^0-9]//g' | sed 's/\(..\)\(..\
   mail -a "Content-Type: text/plain; charset=ISO-8859-1; format=flowed" -a "From: Regards Citoyens <contact@regardscitoyens.org>" -s "${istest}Barometre deputes et senateurs - $month" $dest
 
 deactivate
+
+git stash
+git pull
+git stash pop
+
+if git diff data | grep "." > /dev/null; then
+  git add data/*.json data/*.csv
+  git commit -m "update data"
+  git push
+fi
