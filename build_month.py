@@ -19,7 +19,8 @@ def get_or_set_cache(name, func, cache_dir='.cache'):
         with open(file_path, "w") as f:
             json.dump(data, f)
     else:
-        data = json.load(open(file_path))
+        with open(file_path) as f:
+            data = json.load(f)
 
     return data
 
@@ -27,7 +28,8 @@ def get_or_set_cache(name, func, cache_dir='.cache'):
 def get_month_data(typeparls, date):
     api = CPCApi(ptype=typeparls[:-1])
 
-    parls = get_or_set_cache("%s.json" % typeparls, lambda: dict((str(parl_['id']), parl_) for parl_ in api.parlementaires()))
+    parls = get_or_set_cache("%s.json" % typeparls,
+      lambda: dict((str(parl_['id']), parl_) for parl_ in api.parlementaires()))
     synthese = api.synthese(date)
 
     groupes = {}
