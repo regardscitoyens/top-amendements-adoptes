@@ -1,0 +1,44 @@
+{
+    "SRC": {
+        "taux_adoption": 93.16770186335404, 
+        "nom": "Jean-Jacques Urvoas", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/jean-jacques-urvoas/120", 
+        "sign\u00e9s": 161, 
+        "adopt\u00e9s": 150
+    }, 
+    "GDR": {
+        "taux_adoption": 7.4829931972789119, 
+        "nom": "Jacqueline Fraysse", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/jacqueline-fraysse/120", 
+        "sign\u00e9s": 147, 
+        "adopt\u00e9s": 11
+    }, 
+    "UMP": {
+        "taux_adoption": 17.241379310344829, 
+        "nom": "Jean Leonetti", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/jean-leonetti/120", 
+        "sign\u00e9s": 58, 
+        "adopt\u00e9s": 10
+    }, 
+    "RRDP": {
+        "taux_adoption": 11.784511784511784, 
+        "nom": "Dominique Orliac", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/dominique-orliac/120", 
+        "sign\u00e9s": 297, 
+        "adopt\u00e9s": 35
+    }, 
+    "ECOLO": {
+        "taux_adoption": 6.8736141906873618, 
+        "nom": "Christophe Cavard", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/christophe-cavard/120", 
+        "sign\u00e9s": 451, 
+        "adopt\u00e9s": 31
+    }, 
+    "UDI": {
+        "taux_adoption": 11.627906976744185, 
+        "nom": "Michel Piron", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/michel-piron/120", 
+        "sign\u00e9s": 86, 
+        "adopt\u00e9s": 10
+    }
+}

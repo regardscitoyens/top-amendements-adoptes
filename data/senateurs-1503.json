@@ -1,0 +1,44 @@
+{
+    "SOC": {
+        "taux_adoption": 92.592592592592595, 
+        "nom": "Georges Labaz\u00e9e", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/georges-labazee/120", 
+        "sign\u00e9s": 27, 
+        "adopt\u00e9s": 25
+    }, 
+    "UMP": {
+        "taux_adoption": 53.846153846153847, 
+        "nom": "Jean-Baptiste Lemoyne", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/jean-baptiste-lemoyne/120", 
+        "sign\u00e9s": 13, 
+        "adopt\u00e9s": 7
+    }, 
+    "ECO": {
+        "taux_adoption": 45.833333333333336, 
+        "nom": "Aline Archimbaud", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/aline-archimbaud/120", 
+        "sign\u00e9s": 24, 
+        "adopt\u00e9s": 11
+    }, 
+    "RDSE": {
+        "taux_adoption": 9.7560975609756095, 
+        "nom": "Jean-Claude Requier", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/jean-claude-requier/120", 
+        "sign\u00e9s": 41, 
+        "adopt\u00e9s": 4
+    }, 
+    "CRC": {
+        "taux_adoption": 12.5, 
+        "nom": "Laurence Cohen", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/laurence-cohen/120", 
+        "sign\u00e9s": 32, 
+        "adopt\u00e9s": 4
+    }, 
+    "UDI": {
+        "taux_adoption": 95.833333333333329, 
+        "nom": "G\u00e9rard Roche", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/gerard-roche/120", 
+        "sign\u00e9s": 24, 
+        "adopt\u00e9s": 23
+    }
+}
