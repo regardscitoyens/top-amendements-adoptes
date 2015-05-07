@@ -7,25 +7,25 @@
         "adopt\u00e9s": 150
     }, 
     "GDR": {
-        "taux_adoption": 8.1632653061224492, 
+        "taux_adoption": 10.204081632653061, 
         "nom": "Jacqueline Fraysse", 
         "photo": "http://www.nosdeputes.fr/depute/photo/jacqueline-fraysse/120", 
         "sign\u00e9s": 147, 
-        "adopt\u00e9s": 12
+        "adopt\u00e9s": 15
     }, 
     "UMP": {
-        "taux_adoption": 17.241379310344829, 
-        "nom": "Jean Leonetti", 
-        "photo": "http://www.nosdeputes.fr/depute/photo/jean-leonetti/120", 
-        "sign\u00e9s": 58, 
-        "adopt\u00e9s": 10
+        "taux_adoption": 2.3076923076923075, 
+        "nom": "\u00c9lie Aboud", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/elie-aboud/120", 
+        "sign\u00e9s": 520, 
+        "adopt\u00e9s": 12
     }, 
     "RRDP": {
-        "taux_adoption": 12.457912457912458, 
+        "taux_adoption": 13.468013468013469, 
         "nom": "Dominique Orliac", 
         "photo": "http://www.nosdeputes.fr/depute/photo/dominique-orliac/120", 
         "sign\u00e9s": 297, 
-        "adopt\u00e9s": 37
+        "adopt\u00e9s": 40
     }, 
     "ECOLO": {
         "taux_adoption": 7.5388026607538805, 
@@ -35,10 +35,10 @@
         "adopt\u00e9s": 34
     }, 
     "UDI": {
-        "taux_adoption": 5.729166666666667, 
+        "taux_adoption": 6.770833333333333, 
         "nom": "Jonas Tahuaitu", 
         "photo": "http://www.nosdeputes.fr/depute/photo/jonas-tahuaitu/120", 
         "sign\u00e9s": 192, 
-        "adopt\u00e9s": 11
+        "adopt\u00e9s": 13
     }
 }

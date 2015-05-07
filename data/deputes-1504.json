@@ -1,0 +1,44 @@
+{
+    "SRC": {
+        "taux_adoption": 86.021505376344081, 
+        "nom": "H\u00e9l\u00e8ne Geoffroy", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/helene-geoffroy/120", 
+        "sign\u00e9s": 93, 
+        "adopt\u00e9s": 80
+    }, 
+    "GDR": {
+        "taux_adoption": 28.571428571428573, 
+        "nom": "Andr\u00e9 Chassaigne", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/andre-chassaigne/120", 
+        "sign\u00e9s": 42, 
+        "adopt\u00e9s": 12
+    }, 
+    "UMP": {
+        "taux_adoption": 6.4000000000000004, 
+        "nom": "Julien Aubert", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/julien-aubert/120", 
+        "sign\u00e9s": 125, 
+        "adopt\u00e9s": 8
+    }, 
+    "RRDP": {
+        "taux_adoption": 20.0, 
+        "nom": "Dominique Orliac", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/dominique-orliac/120", 
+        "sign\u00e9s": 55, 
+        "adopt\u00e9s": 11
+    }, 
+    "ECOLO": {
+        "taux_adoption": 28.688524590163933, 
+        "nom": "Denis Baupin", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/denis-baupin/120", 
+        "sign\u00e9s": 366, 
+        "adopt\u00e9s": 105
+    }, 
+    "UDI": {
+        "taux_adoption": 7.2463768115942031, 
+        "nom": "Bertrand Pancher", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/bertrand-pancher/120", 
+        "sign\u00e9s": 69, 
+        "adopt\u00e9s": 5
+    }
+}

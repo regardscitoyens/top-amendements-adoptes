@@ -1,4 +1,11 @@
 {
+    "NI": {
+        "taux_adoption": 2.3255813953488373, 
+        "nom": "Philippe Adnot", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/philippe-adnot/120", 
+        "sign\u00e9s": 43, 
+        "adopt\u00e9s": 1
+    }, 
     "SOC": {
         "taux_adoption": 92.592592592592595, 
         "nom": "Georges Labaz\u00e9e", 
@@ -7,10 +14,10 @@
         "adopt\u00e9s": 25
     }, 
     "UMP": {
-        "taux_adoption": 53.846153846153847, 
-        "nom": "Jean-Baptiste Lemoyne", 
-        "photo": "http://www.nossenateurs.fr/senateur/photo/jean-baptiste-lemoyne/120", 
-        "sign\u00e9s": 13, 
+        "taux_adoption": 70.0, 
+        "nom": "Chantal Deseyne", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/chantal-deseyne/120", 
+        "sign\u00e9s": 10, 
         "adopt\u00e9s": 7
     }, 
     "ECO": {
@@ -28,11 +35,11 @@
         "adopt\u00e9s": 4
     }, 
     "CRC": {
-        "taux_adoption": 12.5, 
-        "nom": "Laurence Cohen", 
-        "photo": "http://www.nossenateurs.fr/senateur/photo/laurence-cohen/120", 
-        "sign\u00e9s": 32, 
-        "adopt\u00e9s": 4
+        "taux_adoption": 6.8181818181818183, 
+        "nom": "\u00c9liane Assassi", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/eliane-assassi/120", 
+        "sign\u00e9s": 88, 
+        "adopt\u00e9s": 6
     }, 
     "UDI": {
         "taux_adoption": 92.0, 
