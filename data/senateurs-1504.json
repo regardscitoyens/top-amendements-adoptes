@@ -21,18 +21,18 @@
         "adopt\u00e9s": 37
     }, 
     "ECO": {
-        "taux_adoption": 2.2727272727272729, 
+        "taux_adoption": 3.4090909090909092, 
         "nom": "Jean Desessard", 
         "photo": "http://www.nossenateurs.fr/senateur/photo/jean-desessard/120", 
         "sign\u00e9s": 88, 
-        "adopt\u00e9s": 2
+        "adopt\u00e9s": 3
     }, 
     "RDSE": {
-        "taux_adoption": 12.67605633802817, 
-        "nom": "Joseph Castelli", 
-        "photo": "http://www.nossenateurs.fr/senateur/photo/joseph-castelli/120", 
-        "sign\u00e9s": 71, 
-        "adopt\u00e9s": 9
+        "taux_adoption": 12.658227848101266, 
+        "nom": "Hermeline Malherbe", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/hermeline-malherbe/120", 
+        "sign\u00e9s": 79, 
+        "adopt\u00e9s": 10
     }, 
     "CRC": {
         "taux_adoption": 1.0101010101010102, 
@@ -42,10 +42,10 @@
         "adopt\u00e9s": 4
     }, 
     "UDI": {
-        "taux_adoption": 8.7837837837837842, 
+        "taux_adoption": 10.810810810810811, 
         "nom": "Jo\u00ebl Guerriau", 
         "photo": "http://www.nossenateurs.fr/senateur/photo/joel-guerriau/120", 
         "sign\u00e9s": 148, 
-        "adopt\u00e9s": 13
+        "adopt\u00e9s": 16
     }
 }
