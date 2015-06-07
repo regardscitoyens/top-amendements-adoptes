@@ -1,24 +1,17 @@
 {
     "NI": {
-        "taux_adoption": 18.181818181818183, 
+        "taux_adoption": 27.272727272727273, 
         "nom": "Philippe Adnot", 
         "photo": "http://www.nossenateurs.fr/senateur/photo/philippe-adnot/120", 
         "sign\u00e9s": 11, 
-        "adopt\u00e9s": 2
+        "adopt\u00e9s": 3
     }, 
     "SOC": {
-        "taux_adoption": 18.96551724137931, 
+        "taux_adoption": 19.298245614035089, 
         "nom": "Jean-Jacques Filleul", 
         "photo": "http://www.nossenateurs.fr/senateur/photo/jean-jacques-filleul/120", 
-        "sign\u00e9s": 58, 
+        "sign\u00e9s": 57, 
         "adopt\u00e9s": 11
-    }, 
-    "UMP": {
-        "taux_adoption": 86.04651162790698, 
-        "nom": "Dominique Estrosi Sassone", 
-        "photo": "http://www.nossenateurs.fr/senateur/photo/dominique-estrosi-sassone/120", 
-        "sign\u00e9s": 43, 
-        "adopt\u00e9s": 37
     }, 
     "ECO": {
         "taux_adoption": 3.4090909090909092, 
@@ -26,6 +19,13 @@
         "photo": "http://www.nossenateurs.fr/senateur/photo/jean-desessard/120", 
         "sign\u00e9s": 88, 
         "adopt\u00e9s": 3
+    }, 
+    "LES-REP": {
+        "taux_adoption": 25.161290322580644, 
+        "nom": "Alain Milon", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/alain-milon/120", 
+        "sign\u00e9s": 155, 
+        "adopt\u00e9s": 39
     }, 
     "RDSE": {
         "taux_adoption": 12.658227848101266, 

@@ -1,0 +1,44 @@
+{
+    "SOC": {
+        "taux_adoption": 82.857142857142861, 
+        "nom": "Ren\u00e9 Vandierendonck", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/rene-vandierendonck/120", 
+        "sign\u00e9s": 35, 
+        "adopt\u00e9s": 29
+    }, 
+    "ECO": {
+        "taux_adoption": 5.6603773584905657, 
+        "nom": "Ronan Dantec", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/ronan-dantec/120", 
+        "sign\u00e9s": 53, 
+        "adopt\u00e9s": 3
+    }, 
+    "LES-REP": {
+        "taux_adoption": 83.78378378378379, 
+        "nom": "Jean-Jacques Hyest", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/jean-jacques-hyest/120", 
+        "sign\u00e9s": 37, 
+        "adopt\u00e9s": 31
+    }, 
+    "RDSE": {
+        "taux_adoption": 13.333333333333334, 
+        "nom": "Pierre-Yves Collombat", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/pierre-yves-collombat/120", 
+        "sign\u00e9s": 75, 
+        "adopt\u00e9s": 10
+    }, 
+    "CRC": {
+        "taux_adoption": 3.2863849765258215, 
+        "nom": "\u00c9liane Assassi", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/eliane-assassi/120", 
+        "sign\u00e9s": 213, 
+        "adopt\u00e9s": 7
+    }, 
+    "UDI": {
+        "taux_adoption": 25.0, 
+        "nom": "Vincent Delahaye", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/vincent-delahaye/120", 
+        "sign\u00e9s": 60, 
+        "adopt\u00e9s": 15
+    }
+}

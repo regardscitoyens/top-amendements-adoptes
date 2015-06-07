@@ -1,0 +1,44 @@
+{
+    "SRC": {
+        "taux_adoption": 94.303797468354432, 
+        "nom": "Christophe Sirugue", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/christophe-sirugue/120", 
+        "sign\u00e9s": 316, 
+        "adopt\u00e9s": 298
+    }, 
+    "GDR": {
+        "taux_adoption": 6.8965517241379306, 
+        "nom": "Marc Dolez", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/marc-dolez/120", 
+        "sign\u00e9s": 87, 
+        "adopt\u00e9s": 6
+    }, 
+    "LES-REP": {
+        "taux_adoption": 14.150943396226415, 
+        "nom": "Alain Leboeuf", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/alain-leboeuf/120", 
+        "sign\u00e9s": 106, 
+        "adopt\u00e9s": 15
+    }, 
+    "RRDP": {
+        "taux_adoption": 19.047619047619047, 
+        "nom": "Alain Tourret", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/alain-tourret/120", 
+        "sign\u00e9s": 63, 
+        "adopt\u00e9s": 12
+    }, 
+    "ECOLO": {
+        "taux_adoption": 26.027397260273972, 
+        "nom": "Denis Baupin", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/denis-baupin/120", 
+        "sign\u00e9s": 219, 
+        "adopt\u00e9s": 57
+    }, 
+    "UDI": {
+        "taux_adoption": 9.5744680851063837, 
+        "nom": "Francis Hillmeyer", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/francis-hillmeyer/120", 
+        "sign\u00e9s": 94, 
+        "adopt\u00e9s": 9
+    }
+}
