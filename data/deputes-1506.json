@@ -1,11 +1,4 @@
 {
-    "": {
-        "taux_adoption": 46.666666666666664, 
-        "nom": "Philippe Nogu\u00e8s", 
-        "photo": "http://www.nosdeputes.fr/depute/photo/philippe-nogues/120", 
-        "sign\u00e9s": 15, 
-        "adopt\u00e9s": 7
-    }, 
     "SRC": {
         "taux_adoption": 83.333333333333329, 
         "nom": "C\u00e9cile Untermaier", 
@@ -21,11 +14,11 @@
         "adopt\u00e9s": 7
     }, 
     "NI": {
-        "taux_adoption": 2.3255813953488373, 
-        "nom": "Gilbert Collard", 
-        "photo": "http://www.nosdeputes.fr/depute/photo/gilbert-collard/120", 
-        "sign\u00e9s": 43, 
-        "adopt\u00e9s": 1
+        "taux_adoption": 46.666666666666664, 
+        "nom": "Philippe Nogu\u00e8s", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/philippe-nogues/120", 
+        "sign\u00e9s": 15, 
+        "adopt\u00e9s": 7
     }, 
     "LES-REP": {
         "taux_adoption": 3.8461538461538463, 

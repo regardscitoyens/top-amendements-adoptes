@@ -13,7 +13,14 @@
         "sign\u00e9s": 147, 
         "adopt\u00e9s": 15
     }, 
-    "UMP": {
+    "NI": {
+        "taux_adoption": 18.666666666666668, 
+        "nom": "Philippe Nogu\u00e8s", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/philippe-nogues/120", 
+        "sign\u00e9s": 75, 
+        "adopt\u00e9s": 14
+    }, 
+    "LES-REP": {
         "taux_adoption": 2.3076923076923075, 
         "nom": "\u00c9lie Aboud", 
         "photo": "http://www.nosdeputes.fr/depute/photo/elie-aboud/120", 
@@ -28,11 +35,11 @@
         "adopt\u00e9s": 40
     }, 
     "ECOLO": {
-        "taux_adoption": 7.5388026607538805, 
+        "taux_adoption": 7.7605321507760534, 
         "nom": "Christophe Cavard", 
         "photo": "http://www.nosdeputes.fr/depute/photo/christophe-cavard/120", 
         "sign\u00e9s": 451, 
-        "adopt\u00e9s": 34
+        "adopt\u00e9s": 35
     }, 
     "UDI": {
         "taux_adoption": 6.770833333333333, 

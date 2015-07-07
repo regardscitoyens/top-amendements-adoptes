@@ -1,11 +1,4 @@
 {
-    "": {
-        "taux_adoption": 10.0, 
-        "nom": "Philippe Nogu\u00e8s", 
-        "photo": "http://www.nosdeputes.fr/depute/photo/philippe-nogues/120", 
-        "sign\u00e9s": 20, 
-        "adopt\u00e9s": 2
-    }, 
     "SRC": {
         "taux_adoption": 86.021505376344081, 
         "nom": "H\u00e9l\u00e8ne Geoffroy", 
@@ -19,6 +12,13 @@
         "photo": "http://www.nosdeputes.fr/depute/photo/andre-chassaigne/120", 
         "sign\u00e9s": 42, 
         "adopt\u00e9s": 12
+    }, 
+    "NI": {
+        "taux_adoption": 10.0, 
+        "nom": "Philippe Nogu\u00e8s", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/philippe-nogues/120", 
+        "sign\u00e9s": 20, 
+        "adopt\u00e9s": 2
     }, 
     "LES-REP": {
         "taux_adoption": 6.4000000000000004, 
