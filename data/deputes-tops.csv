@@ -1,4 +1,4 @@
-année,mois,SRC,UDI,UMP,GDR,NI,ECOLO,RRDP,LES-REP,
+année,mois,SRC,UDI,UMP,GDR,NI,ECOLO,RRDP,,LES-REP
 2012,6,,,,,,,,,
 2012,7,Christian Eckert (54 adoptés - 85.7%),Michel Zumkeller (1 adoptés - 2.9%),Hervé Mariton (2 adoptés - 6.7%),,,,,,
 2012,8,,,,,,,,,
@@ -33,6 +33,6 @@ année,mois,SRC,UDI,UMP,GDR,NI,ECOLO,RRDP,LES-REP,
 2015,1,Richard Ferrand (390 adoptés - 57.7%),Jean-Christophe Fromantin (17 adoptés - 5.7%),Jean-Frédéric Poisson (14 adoptés - 4.4%),Nicolas Sansu (4 adoptés - 2.1%),Véronique Besse (1 adoptés - 8.3%),Eva Sas (30 adoptés - 8.3%),Alain Tourret (180 adoptés - 30.4%),,
 2015,2,Olivier Dussopt (319 adoptés - 84.2%),Michel Piron (18 adoptés - 11.4%),Jean Leonetti (26 adoptés - 65.0%),Marc Dolez (4 adoptés - 4.4%),,Paul Molac (34 adoptés - 18.2%),Alain Tourret (18 adoptés - 50.0%),,
 2015,3,Jean-Jacques Urvoas (150 adoptés - 93.2%),Jonas Tahuaitu (13 adoptés - 6.8%),Élie Aboud (12 adoptés - 2.3%),Jacqueline Fraysse (15 adoptés - 10.2%),,Christophe Cavard (34 adoptés - 7.5%),Dominique Orliac (40 adoptés - 13.5%),,
-2015,4,Hélène Geoffroy (80 adoptés - 86.0%),Bertrand Pancher (5 adoptés - 7.2%),,André Chassaigne (12 adoptés - 28.6%),,Denis Baupin (105 adoptés - 28.7%),Dominique Orliac (11 adoptés - 20.0%),Julien Aubert (8 adoptés - 6.4%),
-2015,5,Christophe Sirugue (298 adoptés - 94.3%),Francis Hillmeyer (9 adoptés - 9.6%),,Marc Dolez (6 adoptés - 6.9%),,Denis Baupin (57 adoptés - 26.0%),Alain Tourret (12 adoptés - 19.0%),Alain Leboeuf (15 adoptés - 14.2%),Philippe Noguès (5 adoptés - 31.2%)
-2015,6,Cécile Untermaier (315 adoptés - 83.3%),Michel Piron (19 adoptés - 8.2%),,Marie-George Buffet (7 adoptés - 3.0%),Gilbert Collard (1 adoptés - 2.3%),Sergio Coronado (74 adoptés - 16.6%),Alain Tourret (317 adoptés - 73.4%),Lionel Tardy (14 adoptés - 3.8%),Philippe Noguès (7 adoptés - 46.7%)
+2015,4,Hélène Geoffroy (80 adoptés - 86.0%),Bertrand Pancher (5 adoptés - 7.2%),,André Chassaigne (12 adoptés - 28.6%),,Denis Baupin (105 adoptés - 28.7%),Dominique Orliac (11 adoptés - 20.0%),Philippe Noguès (2 adoptés - 10.0%),Julien Aubert (8 adoptés - 6.4%)
+2015,5,Christophe Sirugue (298 adoptés - 94.3%),Francis Hillmeyer (9 adoptés - 9.6%),,Marc Dolez (6 adoptés - 6.9%),,Denis Baupin (57 adoptés - 26.0%),Alain Tourret (12 adoptés - 19.0%),Philippe Noguès (5 adoptés - 31.2%),Alain Leboeuf (15 adoptés - 14.2%)
+2015,6,Cécile Untermaier (315 adoptés - 83.3%),Michel Piron (19 adoptés - 8.2%),,Marie-George Buffet (7 adoptés - 3.0%),Gilbert Collard (1 adoptés - 2.3%),Sergio Coronado (74 adoptés - 16.6%),Alain Tourret (317 adoptés - 73.4%),Philippe Noguès (7 adoptés - 46.7%),Lionel Tardy (14 adoptés - 3.8%)
