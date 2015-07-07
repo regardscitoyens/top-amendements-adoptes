@@ -1,4 +1,11 @@
 {
+    "": {
+        "taux_adoption": 31.25, 
+        "nom": "Philippe Nogu\u00e8s", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/philippe-nogues/120", 
+        "sign\u00e9s": 16, 
+        "adopt\u00e9s": 5
+    }, 
     "SRC": {
         "taux_adoption": 94.303797468354432, 
         "nom": "Christophe Sirugue", 

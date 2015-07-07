@@ -1,0 +1,51 @@
+{
+    "NI": {
+        "taux_adoption": 66.666666666666671, 
+        "nom": "Philippe Adnot", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/philippe-adnot/120", 
+        "sign\u00e9s": 3, 
+        "adopt\u00e9s": 2
+    }, 
+    "SOC": {
+        "taux_adoption": 34.482758620689658, 
+        "nom": "F\u00e9lix Desplan", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/felix-desplan/120", 
+        "sign\u00e9s": 29, 
+        "adopt\u00e9s": 10
+    }, 
+    "ECO": {
+        "taux_adoption": 20.512820512820515, 
+        "nom": "Jean Desessard", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/jean-desessard/120", 
+        "sign\u00e9s": 39, 
+        "adopt\u00e9s": 8
+    }, 
+    "LES-REP": {
+        "taux_adoption": 78.723404255319153, 
+        "nom": "Philippe Bas", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/philippe-bas/120", 
+        "sign\u00e9s": 47, 
+        "adopt\u00e9s": 37
+    }, 
+    "RDSE": {
+        "taux_adoption": 4.6296296296296298, 
+        "nom": "Jacques M\u00e9zard", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/jacques-mezard/120", 
+        "sign\u00e9s": 108, 
+        "adopt\u00e9s": 5
+    }, 
+    "CRC": {
+        "taux_adoption": 4.3478260869565215, 
+        "nom": "\u00c9liane Assassi", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/eliane-assassi/120", 
+        "sign\u00e9s": 92, 
+        "adopt\u00e9s": 4
+    }, 
+    "UDI": {
+        "taux_adoption": 19.540229885057471, 
+        "nom": "Jo\u00ebl Guerriau", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/joel-guerriau/120", 
+        "sign\u00e9s": 87, 
+        "adopt\u00e9s": 17
+    }
+}
