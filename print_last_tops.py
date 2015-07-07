@@ -30,7 +30,8 @@ unicode_print(u"Baromètre des députés %.2d/%s" % (int(top_deputes[u"mois"]), 
 print "-" * 50
 
 for groupe in top_deputes["groupes"]:
-    unicode_print("%s : %s" % (groupe, top_deputes[groupe]))
+    if top_deputes[groupe]:
+        unicode_print("%s : %s" % (groupe, top_deputes[groupe]))
 
 print " " * 50 + "\n"
 print " " * 50 + "\n"
@@ -40,7 +41,8 @@ unicode_print(u"Baromètre des sénateurs %.2d/%s" % (int(top_deputes[u"mois"]),
 print "-" * 50
 
 for groupe in top_senateurs["groupes"]:
-    unicode_print(u"%s : %s" % (groupe, top_senateurs[groupe]))
+    if top_senateurs[groupe]:
+        unicode_print(u"%s : %s" % (groupe, top_senateurs[groupe]))
 
 print " " * 50 + "\n"
 print " " * 50 + "\n"
