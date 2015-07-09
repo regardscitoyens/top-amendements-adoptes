@@ -28,10 +28,10 @@
         "adopt\u00e9s": 37
     }, 
     "RDSE": {
-        "taux_adoption": 4.6296296296296298, 
+        "taux_adoption": 5.0, 
         "nom": "Jacques M\u00e9zard", 
         "photo": "http://www.nossenateurs.fr/senateur/photo/jacques-mezard/120", 
-        "sign\u00e9s": 108, 
+        "sign\u00e9s": 100, 
         "adopt\u00e9s": 5
     }, 
     "CRC": {
@@ -42,10 +42,10 @@
         "adopt\u00e9s": 4
     }, 
     "UDI": {
-        "taux_adoption": 19.540229885057471, 
+        "taux_adoption": 19.318181818181817, 
         "nom": "Jo\u00ebl Guerriau", 
         "photo": "http://www.nossenateurs.fr/senateur/photo/joel-guerriau/120", 
-        "sign\u00e9s": 87, 
+        "sign\u00e9s": 88, 
         "adopt\u00e9s": 17
     }
 }
