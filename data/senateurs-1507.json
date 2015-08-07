@@ -1,0 +1,44 @@
+{
+    "SOC": {
+        "taux_adoption": 33.333333333333336, 
+        "nom": "Delphine Bataille", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/delphine-bataille/120", 
+        "sign\u00e9s": 6, 
+        "adopt\u00e9s": 2
+    }, 
+    "ECO": {
+        "taux_adoption": 50.0, 
+        "nom": "Marie-Christine Blandin", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/marie-christine-blandin/120", 
+        "sign\u00e9s": 2, 
+        "adopt\u00e9s": 1
+    }, 
+    "LES-REP": {
+        "taux_adoption": 70.0, 
+        "nom": "Ladislas Poniatowski", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/ladislas-poniatowski/120", 
+        "sign\u00e9s": 20, 
+        "adopt\u00e9s": 14
+    }, 
+    "RDSE": {
+        "taux_adoption": 22.222222222222221, 
+        "nom": "Fran\u00e7ois Fortassin", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/francois-fortassin/120", 
+        "sign\u00e9s": 9, 
+        "adopt\u00e9s": 2
+    }, 
+    "CRC": {
+        "taux_adoption": 100.0, 
+        "nom": "Pierre Laurent", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/pierre-laurent/120", 
+        "sign\u00e9s": 1, 
+        "adopt\u00e9s": 1
+    }, 
+    "UDI": {
+        "taux_adoption": 27.272727272727273, 
+        "nom": "Catherine Morin-Desailly", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/catherine-morin-desailly/120", 
+        "sign\u00e9s": 22, 
+        "adopt\u00e9s": 6
+    }
+}
