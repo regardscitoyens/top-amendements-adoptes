@@ -1,0 +1,51 @@
+{
+    "SRC": {
+        "taux_adoption": 86.928104575163403, 
+        "nom": "Viviane Le Dissez", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/viviane-le-dissez/120", 
+        "sign\u00e9s": 153, 
+        "adopt\u00e9s": 133
+    }, 
+    "GDR": {
+        "taux_adoption": 7.1428571428571432, 
+        "nom": "Marie-George Buffet", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/marie-george-buffet/120", 
+        "sign\u00e9s": 70, 
+        "adopt\u00e9s": 5
+    }, 
+    "NI": {
+        "taux_adoption": 16.666666666666668, 
+        "nom": "Jean Lassalle", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/jean-lassalle/120", 
+        "sign\u00e9s": 6, 
+        "adopt\u00e9s": 1
+    }, 
+    "LES-REP": {
+        "taux_adoption": 5.7591623036649215, 
+        "nom": "Virginie Duby-Muller", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/virginie-duby-muller/120", 
+        "sign\u00e9s": 191, 
+        "adopt\u00e9s": 11
+    }, 
+    "RRDP": {
+        "taux_adoption": 4.6875, 
+        "nom": "Jean-Pierre Maggi", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/jean-pierre-maggi/120", 
+        "sign\u00e9s": 64, 
+        "adopt\u00e9s": 3
+    }, 
+    "ECOLO": {
+        "taux_adoption": 19.811320754716981, 
+        "nom": "Paul Molac", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/paul-molac/120", 
+        "sign\u00e9s": 106, 
+        "adopt\u00e9s": 21
+    }, 
+    "UDI": {
+        "taux_adoption": 8.5714285714285712, 
+        "nom": "Michel Piron", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/michel-piron/120", 
+        "sign\u00e9s": 35, 
+        "adopt\u00e9s": 3
+    }
+}
