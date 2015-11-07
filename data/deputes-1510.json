@@ -1,0 +1,44 @@
+{
+    "SRC": {
+        "taux_adoption": 84.530386740331494, 
+        "nom": "Mich\u00e8le Delaunay", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/michele-delaunay/120", 
+        "sign\u00e9s": 181, 
+        "adopt\u00e9s": 153
+    }, 
+    "GDR": {
+        "taux_adoption": 11.764705882352942, 
+        "nom": "Alfred Marie-Jeanne", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/alfred-marie-jeanne/120", 
+        "sign\u00e9s": 17, 
+        "adopt\u00e9s": 2
+    }, 
+    "LES-REP": {
+        "taux_adoption": 2.7397260273972601, 
+        "nom": "Lionel Tardy", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/lionel-tardy/120", 
+        "sign\u00e9s": 219, 
+        "adopt\u00e9s": 6
+    }, 
+    "RRDP": {
+        "taux_adoption": 12.903225806451612, 
+        "nom": "Thierry Robert", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/thierry-robert/120", 
+        "sign\u00e9s": 93, 
+        "adopt\u00e9s": 12
+    }, 
+    "ECOLO": {
+        "taux_adoption": 11.764705882352942, 
+        "nom": "Brigitte Allain", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/brigitte-allain/120", 
+        "sign\u00e9s": 153, 
+        "adopt\u00e9s": 18
+    }, 
+    "UDI": {
+        "taux_adoption": 5.0761421319796955, 
+        "nom": "Charles de Courson", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/charles-de-courson/120", 
+        "sign\u00e9s": 197, 
+        "adopt\u00e9s": 10
+    }
+}
