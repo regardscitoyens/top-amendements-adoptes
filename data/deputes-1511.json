@@ -1,0 +1,51 @@
+{
+    "SRC": {
+        "taux_adoption": 68.77470355731225, 
+        "nom": "Val\u00e9rie Rabault", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/valerie-rabault/120", 
+        "sign\u00e9s": 253, 
+        "adopt\u00e9s": 174
+    }, 
+    "GDR": {
+        "taux_adoption": 2.9411764705882355, 
+        "nom": "Jacqueline Fraysse", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/jacqueline-fraysse/120", 
+        "sign\u00e9s": 68, 
+        "adopt\u00e9s": 2
+    }, 
+    "NI": {
+        "taux_adoption": 17.647058823529413, 
+        "nom": "Philippe Nogu\u00e8s", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/philippe-nogues/120", 
+        "sign\u00e9s": 17, 
+        "adopt\u00e9s": 3
+    }, 
+    "LES-REP": {
+        "taux_adoption": 7.2000000000000002, 
+        "nom": "Gilles Lurton", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/gilles-lurton/120", 
+        "sign\u00e9s": 250, 
+        "adopt\u00e9s": 18
+    }, 
+    "RRDP": {
+        "taux_adoption": 20.95808383233533, 
+        "nom": "J\u00e9r\u00f4me Lambert", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/jerome-lambert/120", 
+        "sign\u00e9s": 167, 
+        "adopt\u00e9s": 35
+    }, 
+    "ECOLO": {
+        "taux_adoption": 13.612565445026178, 
+        "nom": "\u00c9ric Alauzet", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/eric-alauzet/120", 
+        "sign\u00e9s": 191, 
+        "adopt\u00e9s": 26
+    }, 
+    "UDI": {
+        "taux_adoption": 4.0740740740740744, 
+        "nom": "Charles de Courson", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/charles-de-courson/120", 
+        "sign\u00e9s": 270, 
+        "adopt\u00e9s": 11
+    }
+}
