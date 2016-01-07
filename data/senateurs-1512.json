@@ -1,0 +1,51 @@
+{
+    "NI": {
+        "taux_adoption": 5.882352941176471, 
+        "nom": "Philippe Adnot", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/philippe-adnot/120", 
+        "sign\u00e9s": 17, 
+        "adopt\u00e9s": 1
+    }, 
+    "SOC": {
+        "taux_adoption": 60.714285714285715, 
+        "nom": "Richard Yung", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/richard-yung/120", 
+        "sign\u00e9s": 28, 
+        "adopt\u00e9s": 17
+    }, 
+    "ECO": {
+        "taux_adoption": 20.0, 
+        "nom": "Andr\u00e9 Gattolin", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/andre-gattolin/120", 
+        "sign\u00e9s": 15, 
+        "adopt\u00e9s": 3
+    }, 
+    "LES-REP": {
+        "taux_adoption": 76.859504132231407, 
+        "nom": "Alb\u00e9ric de Montgolfier", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/alberic-de-montgolfier/120", 
+        "sign\u00e9s": 121, 
+        "adopt\u00e9s": 93
+    }, 
+    "RDSE": {
+        "taux_adoption": 11.111111111111111, 
+        "nom": "Fran\u00e7ois Fortassin", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/francois-fortassin/120", 
+        "sign\u00e9s": 36, 
+        "adopt\u00e9s": 4
+    }, 
+    "CRC": {
+        "taux_adoption": 12.903225806451612, 
+        "nom": "\u00c9ric Bocquet", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/eric-bocquet/120", 
+        "sign\u00e9s": 31, 
+        "adopt\u00e9s": 4
+    }, 
+    "UDI": {
+        "taux_adoption": 20.967741935483872, 
+        "nom": "Michel Canevet", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/michel-canevet/120", 
+        "sign\u00e9s": 62, 
+        "adopt\u00e9s": 13
+    }
+}
