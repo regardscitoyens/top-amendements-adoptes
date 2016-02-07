@@ -1,0 +1,51 @@
+{
+    "NI": {
+        "taux_adoption": 100.0, 
+        "nom": "Philippe Adnot", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/philippe-adnot/120", 
+        "sign\u00e9s": 1, 
+        "adopt\u00e9s": 1
+    }, 
+    "SOC": {
+        "taux_adoption": 69.696969696969703, 
+        "nom": "Georges Labaz\u00e9e", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/georges-labazee/120", 
+        "sign\u00e9s": 33, 
+        "adopt\u00e9s": 23
+    }, 
+    "ECO": {
+        "taux_adoption": 6.666666666666667, 
+        "nom": "Corinne Bouchoux", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/corinne-bouchoux/120", 
+        "sign\u00e9s": 30, 
+        "adopt\u00e9s": 2
+    }, 
+    "LES-REP": {
+        "taux_adoption": 82.142857142857139, 
+        "nom": "Alain Vasselle", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/alain-vasselle/120", 
+        "sign\u00e9s": 28, 
+        "adopt\u00e9s": 23
+    }, 
+    "RDSE": {
+        "taux_adoption": 53.333333333333336, 
+        "nom": "Jacques M\u00e9zard", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/jacques-mezard/120", 
+        "sign\u00e9s": 15, 
+        "adopt\u00e9s": 8
+    }, 
+    "CRC": {
+        "taux_adoption": 15.384615384615385, 
+        "nom": "Laurence Cohen", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/laurence-cohen/120", 
+        "sign\u00e9s": 13, 
+        "adopt\u00e9s": 2
+    }, 
+    "UDI": {
+        "taux_adoption": 25.0, 
+        "nom": "Philippe Bonnecarrere", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/philippe-bonnecarrere/120", 
+        "sign\u00e9s": 12, 
+        "adopt\u00e9s": 3
+    }
+}

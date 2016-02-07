@@ -1,0 +1,51 @@
+{
+    "SRC": {
+        "taux_adoption": 76.470588235294116, 
+        "nom": "Luc Belot", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/luc-belot/120", 
+        "sign\u00e9s": 238, 
+        "adopt\u00e9s": 182
+    }, 
+    "GDR": {
+        "taux_adoption": 8.1081081081081088, 
+        "nom": "Andr\u00e9 Chassaigne", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/andre-chassaigne/120", 
+        "sign\u00e9s": 37, 
+        "adopt\u00e9s": 3
+    }, 
+    "NI": {
+        "taux_adoption": 14.285714285714286, 
+        "nom": "Philippe Nogu\u00e8s", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/philippe-nogues/120", 
+        "sign\u00e9s": 7, 
+        "adopt\u00e9s": 1
+    }, 
+    "LES-REP": {
+        "taux_adoption": 12.411347517730496, 
+        "nom": "Lionel Tardy", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/lionel-tardy/120", 
+        "sign\u00e9s": 282, 
+        "adopt\u00e9s": 35
+    }, 
+    "RRDP": {
+        "taux_adoption": 9.0909090909090917, 
+        "nom": "Jo\u00ebl Giraud", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/joel-giraud/120", 
+        "sign\u00e9s": 121, 
+        "adopt\u00e9s": 11
+    }, 
+    "ECOLO": {
+        "taux_adoption": 26.315789473684209, 
+        "nom": "Paul Molac", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/paul-molac/120", 
+        "sign\u00e9s": 228, 
+        "adopt\u00e9s": 60
+    }, 
+    "UDI": {
+        "taux_adoption": 5.7142857142857144, 
+        "nom": "Maina Sage", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/maina-sage/120", 
+        "sign\u00e9s": 70, 
+        "adopt\u00e9s": 4
+    }
+}
