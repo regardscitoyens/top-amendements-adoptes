@@ -1,0 +1,51 @@
+{
+    "SRC": {
+        "taux_adoption": 61.764705882352942, 
+        "nom": "Arnaud Leroy", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/arnaud-leroy/120", 
+        "sign\u00e9s": 136, 
+        "adopt\u00e9s": 84
+    }, 
+    "GDR": {
+        "taux_adoption": 13.636363636363637, 
+        "nom": "Marie-George Buffet", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/marie-george-buffet/120", 
+        "sign\u00e9s": 22, 
+        "adopt\u00e9s": 3
+    }, 
+    "NI": {
+        "taux_adoption": 7.6923076923076925, 
+        "nom": "Jean-Christophe Fromantin", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/jean-christophe-fromantin/120", 
+        "sign\u00e9s": 13, 
+        "adopt\u00e9s": 1
+    }, 
+    "LES-REP": {
+        "taux_adoption": 11.39240506329114, 
+        "nom": "Lionel Tardy", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/lionel-tardy/120", 
+        "sign\u00e9s": 79, 
+        "adopt\u00e9s": 9
+    }, 
+    "RRDP": {
+        "taux_adoption": 30.0, 
+        "nom": "Gilda Hobert", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/gilda-hobert/120", 
+        "sign\u00e9s": 10, 
+        "adopt\u00e9s": 3
+    }, 
+    "ECOLO": {
+        "taux_adoption": 11.363636363636363, 
+        "nom": "Fran\u00e7ois-Michel Lambert", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/francois-michel-lambert/120", 
+        "sign\u00e9s": 88, 
+        "adopt\u00e9s": 10
+    }, 
+    "UDI": {
+        "taux_adoption": 7.8947368421052628, 
+        "nom": "Fran\u00e7ois Rochebloine", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/francois-rochebloine/120", 
+        "sign\u00e9s": 38, 
+        "adopt\u00e9s": 3
+    }
+}
