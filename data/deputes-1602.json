@@ -1,10 +1,10 @@
 {
     "SRC": {
-        "taux_adoption": 61.764705882352942, 
+        "taux_adoption": 63.970588235294116, 
         "nom": "Arnaud Leroy", 
         "photo": "http://www.nosdeputes.fr/depute/photo/arnaud-leroy/120", 
         "sign\u00e9s": 136, 
-        "adopt\u00e9s": 84
+        "adopt\u00e9s": 87
     }, 
     "GDR": {
         "taux_adoption": 13.636363636363637, 
@@ -21,11 +21,11 @@
         "adopt\u00e9s": 1
     }, 
     "LES-REP": {
-        "taux_adoption": 11.39240506329114, 
+        "taux_adoption": 20.253164556962027, 
         "nom": "Lionel Tardy", 
         "photo": "http://www.nosdeputes.fr/depute/photo/lionel-tardy/120", 
         "sign\u00e9s": 79, 
-        "adopt\u00e9s": 9
+        "adopt\u00e9s": 16
     }, 
     "RRDP": {
         "taux_adoption": 30.0, 
@@ -35,17 +35,17 @@
         "adopt\u00e9s": 3
     }, 
     "ECOLO": {
-        "taux_adoption": 11.363636363636363, 
+        "taux_adoption": 20.454545454545453, 
         "nom": "Fran\u00e7ois-Michel Lambert", 
         "photo": "http://www.nosdeputes.fr/depute/photo/francois-michel-lambert/120", 
         "sign\u00e9s": 88, 
-        "adopt\u00e9s": 10
+        "adopt\u00e9s": 18
     }, 
     "UDI": {
-        "taux_adoption": 7.8947368421052628, 
-        "nom": "Fran\u00e7ois Rochebloine", 
-        "photo": "http://www.nosdeputes.fr/depute/photo/francois-rochebloine/120", 
-        "sign\u00e9s": 38, 
-        "adopt\u00e9s": 3
+        "taux_adoption": 6.666666666666667, 
+        "nom": "Bertrand Pancher", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/bertrand-pancher/120", 
+        "sign\u00e9s": 60, 
+        "adopt\u00e9s": 4
     }
 }
