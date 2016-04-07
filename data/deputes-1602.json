@@ -1,10 +1,10 @@
 {
     "SRC": {
-        "taux_adoption": 63.970588235294116, 
+        "taux_adoption": 67.647058823529406, 
         "nom": "Arnaud Leroy", 
         "photo": "http://www.nosdeputes.fr/depute/photo/arnaud-leroy/120", 
         "sign\u00e9s": 136, 
-        "adopt\u00e9s": 87
+        "adopt\u00e9s": 92
     }, 
     "GDR": {
         "taux_adoption": 13.636363636363637, 
@@ -21,31 +21,31 @@
         "adopt\u00e9s": 1
     }, 
     "LES-REP": {
-        "taux_adoption": 20.253164556962027, 
+        "taux_adoption": 29.11392405063291, 
         "nom": "Lionel Tardy", 
         "photo": "http://www.nosdeputes.fr/depute/photo/lionel-tardy/120", 
         "sign\u00e9s": 79, 
-        "adopt\u00e9s": 16
+        "adopt\u00e9s": 23
     }, 
     "RRDP": {
-        "taux_adoption": 30.0, 
-        "nom": "Gilda Hobert", 
-        "photo": "http://www.nosdeputes.fr/depute/photo/gilda-hobert/120", 
-        "sign\u00e9s": 10, 
-        "adopt\u00e9s": 3
+        "taux_adoption": 17.647058823529413, 
+        "nom": "Jo\u00ebl Giraud", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/joel-giraud/120", 
+        "sign\u00e9s": 34, 
+        "adopt\u00e9s": 6
     }, 
     "ECOLO": {
-        "taux_adoption": 20.454545454545453, 
+        "taux_adoption": 25.0, 
         "nom": "Fran\u00e7ois-Michel Lambert", 
         "photo": "http://www.nosdeputes.fr/depute/photo/francois-michel-lambert/120", 
         "sign\u00e9s": 88, 
-        "adopt\u00e9s": 18
+        "adopt\u00e9s": 22
     }, 
     "UDI": {
-        "taux_adoption": 6.666666666666667, 
-        "nom": "Bertrand Pancher", 
-        "photo": "http://www.nosdeputes.fr/depute/photo/bertrand-pancher/120", 
-        "sign\u00e9s": 60, 
-        "adopt\u00e9s": 4
+        "taux_adoption": 11.594202898550725, 
+        "nom": "St\u00e9phane Demilly", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/stephane-demilly/120", 
+        "sign\u00e9s": 69, 
+        "adopt\u00e9s": 8
     }
 }
