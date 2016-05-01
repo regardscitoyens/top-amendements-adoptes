@@ -40,14 +40,14 @@ def get_months_data(typeparls, datebegin, dateend):
 
       for parl in synthese_mois:
         try:
-          synthese[parl['id']][u"signés"] += int(synthese[parl['id']]["amendements_signes"])
-          synthese[parl['id']][u"adoptés"] += int(synthese[parl['id']]["amendements_adoptes"])
+          synthese[parl['id']][u"signés"] += int(parl["amendements_signes"])
+          synthese[parl['id']][u"adoptés"] += int(parl["amendements_adoptes"])
           synthese[parl['id']]["amendements_signes"] = str(synthese[parl['id']][u"signés"])
           synthese[parl['id']]["amendements_adoptes"]= str(synthese[parl['id']][u"adoptés"])
         except KeyError:
           synthese[parl['id']] = parl
-          synthese[parl['id']][u"signés"] = int(synthese[parl['id']]["amendements_signes"])
-          synthese[parl['id']][u"adoptés"] = int(synthese[parl['id']]["amendements_adoptes"])
+          synthese[parl['id']][u"signés"] = int(parl["amendements_signes"])
+          synthese[parl['id']][u"adoptés"] = int(parl["amendements_adoptes"])
 
     groupes = {}
 
