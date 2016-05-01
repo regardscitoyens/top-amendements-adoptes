@@ -25,16 +25,34 @@ def get_or_set_cache(name, func, cache_dir='.cache'):
     return data
 
 
-def get_month_data(typeparls, date):
+def get_months_data(typeparls, datebegin, dateend):
     api = CPCApi(ptype=typeparls[:-1])
 
     parls = get_or_set_cache("%s.json" % typeparls,
       lambda: dict((str(parl_['id']), parl_) for parl_ in api.parlementaires()))
-    synthese = api.synthese(date)
+
+    synthese = {}
+
+    for idate in range(int(datebegin), int(dateend) + 1) :
+      date = str(idate)
+
+      synthese_mois = api.synthese(date)
+
+      for parl in synthese_mois:
+        try:
+          synthese[parl['id']][u"signés"] += int(synthese[parl['id']]["amendements_signes"])
+          synthese[parl['id']][u"adoptés"] += int(synthese[parl['id']]["amendements_adoptes"])
+          synthese[parl['id']]["amendements_signes"] = str(synthese[parl['id']][u"signés"])
+          synthese[parl['id']]["amendements_adoptes"]= str(synthese[parl['id']][u"adoptés"])
+        except KeyError:
+          synthese[parl['id']] = parl
+          synthese[parl['id']][u"signés"] = int(synthese[parl['id']]["amendements_signes"])
+          synthese[parl['id']][u"adoptés"] = int(synthese[parl['id']]["amendements_adoptes"])
 
     groupes = {}
 
-    for parl in synthese:
+    for parl in synthese.values():
+
         parl[u"signés"] = int(parl["amendements_signes"])
         parl[u"adoptés"] = int(parl["amendements_adoptes"])
         parl["taux_adoption"] = 100 * parl[u"adoptés"] / parl[u"signés"] if parl[u"signés"] else 0
@@ -57,10 +75,16 @@ def get_month_data(typeparls, date):
 
 
 if __name__ == '__main__':
-    date = sys.argv[1]
-    typeparls = sys.argv[2]
+    typeparls = sys.argv[1]
+    datebegin = sys.argv[2]
+    try:
+      dateend = sys.argv[3]
+      filename = "%s-%s-%s.json" % (typeparls, datebegin, dateend)
+    except IndexError:
+      dateend = datebegin
+      filename = "%s-%s.json" % (typeparls, datebegin)
 
-    print typeparls, date
+    print typeparls, datebegin, dateend
 
-    with open(os.path.join("data", "%s-%s.json" % (typeparls, date)), "w") as f:
-        json.dump(get_month_data(typeparls, date), f, indent=4)
+    with open(os.path.join("data", filename), "w") as f:
+        json.dump(get_months_data(typeparls, datebegin, dateend), f, indent=4)

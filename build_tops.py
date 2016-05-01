@@ -22,7 +22,7 @@ while since < now:
     month_file = os.path.join("data", "%s-%s.json" % (typeparls, date))
 
     if not os.path.isfile(month_file):
-        call(["python", "build_month.py", date, typeparls])
+        call(["python", "build_month.py", typeparls, date])
 
     with open(month_file) as f:
         data = json.load(f)
