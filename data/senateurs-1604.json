@@ -1,0 +1,44 @@
+{
+    "SOC": {
+        "taux_adoption": 41.0, 
+        "nom": "Pierre Camani", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/pierre-camani/120", 
+        "sign\u00e9s": 100, 
+        "adopt\u00e9s": 41
+    }, 
+    "ECO": {
+        "taux_adoption": 16.666666666666668, 
+        "nom": "Corinne Bouchoux", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/corinne-bouchoux/120", 
+        "sign\u00e9s": 42, 
+        "adopt\u00e9s": 7
+    }, 
+    "LES-REP": {
+        "taux_adoption": 96.666666666666671, 
+        "nom": "Christophe-Andr\u00e9 Frassa", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/christophe-andre-frassa/120", 
+        "sign\u00e9s": 30, 
+        "adopt\u00e9s": 29
+    }, 
+    "RDSE": {
+        "taux_adoption": 8.4507042253521121, 
+        "nom": "Jacques M\u00e9zard", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/jacques-mezard/120", 
+        "sign\u00e9s": 71, 
+        "adopt\u00e9s": 6
+    }, 
+    "CRC": {
+        "taux_adoption": 4.3478260869565215, 
+        "nom": "Jean-Pierre Bosino", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/jean-pierre-bosino/120", 
+        "sign\u00e9s": 46, 
+        "adopt\u00e9s": 2
+    }, 
+    "UDI": {
+        "taux_adoption": 16.129032258064516, 
+        "nom": "Lo\u00efc Herv\u00e9", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/loic-herve/120", 
+        "sign\u00e9s": 31, 
+        "adopt\u00e9s": 5
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "SRC": {
+        "taux_adoption": 65.614035087719301, 
+        "nom": "Genevi\u00e8ve Gaillard", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/genevieve-gaillard/120", 
+        "sign\u00e9s": 285, 
+        "adopt\u00e9s": 187
+    }, 
+    "GDR": {
+        "taux_adoption": 6.1946902654867255, 
+        "nom": "Marie-George Buffet", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/marie-george-buffet/120", 
+        "sign\u00e9s": 113, 
+        "adopt\u00e9s": 7
+    }, 
+    "NI": {
+        "taux_adoption": 11.612903225806452, 
+        "nom": "Pouria Amirshahi", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/pouria-amirshahi/120", 
+        "sign\u00e9s": 155, 
+        "adopt\u00e9s": 18
+    }, 
+    "LES-REP": {
+        "taux_adoption": 13.138686131386862, 
+        "nom": "Lionel Tardy", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/lionel-tardy/120", 
+        "sign\u00e9s": 548, 
+        "adopt\u00e9s": 72
+    }, 
+    "RRDP": {
+        "taux_adoption": 20.81447963800905, 
+        "nom": "Alain Tourret", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/alain-tourret/120", 
+        "sign\u00e9s": 221, 
+        "adopt\u00e9s": 46
+    }, 
+    "ECOLO": {
+        "taux_adoption": 18.71101871101871, 
+        "nom": "Paul Molac", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/paul-molac/120", 
+        "sign\u00e9s": 481, 
+        "adopt\u00e9s": 90
+    }, 
+    "UDI": {
+        "taux_adoption": 8.9947089947089953, 
+        "nom": "St\u00e9phane Demilly", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/stephane-demilly/120", 
+        "sign\u00e9s": 189, 
+        "adopt\u00e9s": 17
+    }
+}
