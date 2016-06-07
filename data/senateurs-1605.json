@@ -1,0 +1,44 @@
+{
+    "SOC": {
+        "taux_adoption": 35.714285714285715, 
+        "nom": "Didier Guillaume", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/didier-guillaume/120", 
+        "sign\u00e9s": 70, 
+        "adopt\u00e9s": 25
+    }, 
+    "ECO": {
+        "taux_adoption": 15.584415584415584, 
+        "nom": "Marie-Christine Blandin", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/marie-christine-blandin/120", 
+        "sign\u00e9s": 77, 
+        "adopt\u00e9s": 12
+    }, 
+    "RDSE": {
+        "taux_adoption": 11.627906976744185, 
+        "nom": "Fran\u00e7ois Fortassin", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/francois-fortassin/120", 
+        "sign\u00e9s": 43, 
+        "adopt\u00e9s": 5
+    }, 
+    "CRC": {
+        "taux_adoption": 16.666666666666668, 
+        "nom": "\u00c9velyne Didier", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/evelyne-didier/120", 
+        "sign\u00e9s": 12, 
+        "adopt\u00e9s": 2
+    }, 
+    "LR": {
+        "taux_adoption": 33.333333333333336, 
+        "nom": "Michel Houel", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/michel-houel/120", 
+        "sign\u00e9s": 45, 
+        "adopt\u00e9s": 15
+    }, 
+    "UDI": {
+        "taux_adoption": 36.842105263157897, 
+        "nom": "Jo\u00ebl Guerriau", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/joel-guerriau/120", 
+        "sign\u00e9s": 38, 
+        "adopt\u00e9s": 14
+    }
+}
