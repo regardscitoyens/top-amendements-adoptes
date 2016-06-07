@@ -1,0 +1,44 @@
+{
+    "NI": {
+        "taux_adoption": 11.458333333333334, 
+        "nom": "Sergio Coronado", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/sergio-coronado/120", 
+        "sign\u00e9s": 192, 
+        "adopt\u00e9s": 22
+    }, 
+    "GDR": {
+        "taux_adoption": 4.4554455445544559, 
+        "nom": "Marc Dolez", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/marc-dolez/120", 
+        "sign\u00e9s": 202, 
+        "adopt\u00e9s": 9
+    }, 
+    "SER": {
+        "taux_adoption": 84.615384615384613, 
+        "nom": "Christophe Sirugue", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/christophe-sirugue/120", 
+        "sign\u00e9s": 390, 
+        "adopt\u00e9s": 330
+    }, 
+    "RRDP": {
+        "taux_adoption": 16.438356164383563, 
+        "nom": "Jeanine Dubi\u00e9", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/jeanine-dubie/120", 
+        "sign\u00e9s": 73, 
+        "adopt\u00e9s": 12
+    }, 
+    "LR": {
+        "taux_adoption": 44.31818181818182, 
+        "nom": "Jean-Luc Warsmann", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/jean-luc-warsmann/120", 
+        "sign\u00e9s": 176, 
+        "adopt\u00e9s": 78
+    }, 
+    "UDI": {
+        "taux_adoption": 7.3529411764705879, 
+        "nom": "Charles de Courson", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/charles-de-courson/120", 
+        "sign\u00e9s": 136, 
+        "adopt\u00e9s": 10
+    }
+}
