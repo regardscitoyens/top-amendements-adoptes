@@ -1,0 +1,44 @@
+{
+    "SOC": {
+        "taux_adoption": 20.0, 
+        "nom": "Anne Emery-Dumas", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/anne-emery-dumas/120", 
+        "sign\u00e9s": 80, 
+        "adopt\u00e9s": 16
+    }, 
+    "ECO": {
+        "taux_adoption": 10.526315789473685, 
+        "nom": "Esther Benbassa", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/esther-benbassa/120", 
+        "sign\u00e9s": 76, 
+        "adopt\u00e9s": 8
+    }, 
+    "RDSE": {
+        "taux_adoption": 49.056603773584904, 
+        "nom": "Jacques M\u00e9zard", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/jacques-mezard/120", 
+        "sign\u00e9s": 53, 
+        "adopt\u00e9s": 26
+    }, 
+    "CRC": {
+        "taux_adoption": 4.0506329113924053, 
+        "nom": "Dominique Watrin", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/dominique-watrin/120", 
+        "sign\u00e9s": 395, 
+        "adopt\u00e9s": 16
+    }, 
+    "LR": {
+        "taux_adoption": 86.666666666666671, 
+        "nom": "Jean-Baptiste Lemoyne", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/jean-baptiste-lemoyne/120", 
+        "sign\u00e9s": 60, 
+        "adopt\u00e9s": 52
+    }, 
+    "UDI": {
+        "taux_adoption": 83.333333333333329, 
+        "nom": "Jean-Marc Gabouty", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/jean-marc-gabouty/120", 
+        "sign\u00e9s": 66, 
+        "adopt\u00e9s": 55
+    }
+}
