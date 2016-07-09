@@ -1,17 +1,17 @@
 {
     "SOC": {
-        "taux_adoption": 20.0, 
-        "nom": "Anne Emery-Dumas", 
-        "photo": "http://www.nossenateurs.fr/senateur/photo/anne-emery-dumas/120", 
-        "sign\u00e9s": 80, 
-        "adopt\u00e9s": 16
+        "taux_adoption": 14.285714285714286, 
+        "nom": "Didier Guillaume", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/didier-guillaume/120", 
+        "sign\u00e9s": 119, 
+        "adopt\u00e9s": 17
     }, 
     "ECO": {
-        "taux_adoption": 10.526315789473685, 
-        "nom": "Esther Benbassa", 
-        "photo": "http://www.nossenateurs.fr/senateur/photo/esther-benbassa/120", 
-        "sign\u00e9s": 76, 
-        "adopt\u00e9s": 8
+        "taux_adoption": 9.473684210526315, 
+        "nom": "Andr\u00e9 Gattolin", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/andre-gattolin/120", 
+        "sign\u00e9s": 95, 
+        "adopt\u00e9s": 9
     }, 
     "RDSE": {
         "taux_adoption": 49.056603773584904, 
@@ -21,11 +21,11 @@
         "adopt\u00e9s": 26
     }, 
     "CRC": {
-        "taux_adoption": 4.0506329113924053, 
-        "nom": "Dominique Watrin", 
-        "photo": "http://www.nossenateurs.fr/senateur/photo/dominique-watrin/120", 
-        "sign\u00e9s": 395, 
-        "adopt\u00e9s": 16
+        "taux_adoption": 3.8901601830663615, 
+        "nom": "\u00c9liane Assassi", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/eliane-assassi/120", 
+        "sign\u00e9s": 437, 
+        "adopt\u00e9s": 17
     }, 
     "LR": {
         "taux_adoption": 86.666666666666671, 
