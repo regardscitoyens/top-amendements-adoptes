@@ -1,0 +1,51 @@
+{
+    "NI": {
+        "taux_adoption": 13.793103448275861, 
+        "nom": "Philippe Adnot", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/philippe-adnot/120", 
+        "sign\u00e9s": 29, 
+        "adopt\u00e9s": 4
+    }, 
+    "SOC": {
+        "taux_adoption": 60.0, 
+        "nom": "Fran\u00e7ois Marc", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/francois-marc/120", 
+        "sign\u00e9s": 20, 
+        "adopt\u00e9s": 12
+    }, 
+    "ECO": {
+        "taux_adoption": 11.538461538461538, 
+        "nom": "Jo\u00ebl Labb\u00e9", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/joel-labbe/120", 
+        "sign\u00e9s": 26, 
+        "adopt\u00e9s": 3
+    }, 
+    "RDSE": {
+        "taux_adoption": 9.8591549295774641, 
+        "nom": "Jean-No\u00ebl Gu\u00e9rini", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/jean-noel-guerini/120", 
+        "sign\u00e9s": 71, 
+        "adopt\u00e9s": 7
+    }, 
+    "CRC": {
+        "taux_adoption": 23.076923076923077, 
+        "nom": "C\u00e9cile Cukierman", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/cecile-cukierman/120", 
+        "sign\u00e9s": 13, 
+        "adopt\u00e9s": 3
+    }, 
+    "LR": {
+        "taux_adoption": 91.071428571428569, 
+        "nom": "Fran\u00e7ois Pillet", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/francois-pillet/120", 
+        "sign\u00e9s": 56, 
+        "adopt\u00e9s": 51
+    }, 
+    "UDI": {
+        "taux_adoption": 14.492753623188406, 
+        "nom": "Jo\u00ebl Guerriau", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/joel-guerriau/120", 
+        "sign\u00e9s": 69, 
+        "adopt\u00e9s": 10
+    }
+}
