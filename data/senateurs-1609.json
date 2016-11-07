@@ -1,31 +1,17 @@
 {
-    "CRC": {
-        "taux_adoption": 4.225352112676056, 
-        "nom": "Christian Favier", 
-        "photo": "http://www.nossenateurs.fr/senateur/photo/christian-favier/120", 
-        "sign\u00e9s": 142, 
-        "adopt\u00e9s": 6
-    }, 
     "SOC": {
-        "taux_adoption": 12.903225806451612, 
+        "taux_adoption": 17.391304347826086, 
         "nom": "Evelyne Yonnet", 
         "photo": "http://www.nossenateurs.fr/senateur/photo/evelyne-yonnet/120", 
-        "sign\u00e9s": 93, 
-        "adopt\u00e9s": 12
+        "sign\u00e9s": 92, 
+        "adopt\u00e9s": 16
     }, 
-    "UDI": {
-        "taux_adoption": 81.25, 
-        "nom": "Fran\u00e7oise Gatel", 
-        "photo": "http://www.nossenateurs.fr/senateur/photo/francoise-gatel/120", 
-        "sign\u00e9s": 16, 
-        "adopt\u00e9s": 13
-    }, 
-    "LR": {
-        "taux_adoption": 77.777777777777771, 
-        "nom": "Dominique Estrosi Sassone", 
-        "photo": "http://www.nossenateurs.fr/senateur/photo/dominique-estrosi-sassone/120", 
-        "sign\u00e9s": 9, 
-        "adopt\u00e9s": 7
+    "ECO": {
+        "taux_adoption": 1.2048192771084338, 
+        "nom": "Aline Archimbaud", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/aline-archimbaud/120", 
+        "sign\u00e9s": 83, 
+        "adopt\u00e9s": 1
     }, 
     "RDSE": {
         "taux_adoption": 15.384615384615385, 
@@ -33,5 +19,26 @@
         "photo": "http://www.nossenateurs.fr/senateur/photo/hermeline-malherbe/120", 
         "sign\u00e9s": 13, 
         "adopt\u00e9s": 2
+    }, 
+    "CRC": {
+        "taux_adoption": 6.4285714285714288, 
+        "nom": "Christian Favier", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/christian-favier/120", 
+        "sign\u00e9s": 140, 
+        "adopt\u00e9s": 9
+    }, 
+    "LR": {
+        "taux_adoption": 88.888888888888886, 
+        "nom": "Dominique Estrosi Sassone", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/dominique-estrosi-sassone/120", 
+        "sign\u00e9s": 9, 
+        "adopt\u00e9s": 8
+    }, 
+    "UDI": {
+        "taux_adoption": 100.0, 
+        "nom": "Fran\u00e7oise Gatel", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/francoise-gatel/120", 
+        "sign\u00e9s": 16, 
+        "adopt\u00e9s": 16
     }
 }
