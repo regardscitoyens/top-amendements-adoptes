@@ -1,0 +1,44 @@
+{
+    "NI": {
+        "taux_adoption": 11.0, 
+        "nom": "Laurence Abeille", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/laurence-abeille/120", 
+        "sign\u00e9s": 100, 
+        "adopt\u00e9s": 11
+    }, 
+    "GDR": {
+        "taux_adoption": 10.687022900763358, 
+        "nom": "Andr\u00e9 Chassaigne", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/andre-chassaigne/120", 
+        "sign\u00e9s": 131, 
+        "adopt\u00e9s": 14
+    }, 
+    "SER": {
+        "taux_adoption": 74.576271186440678, 
+        "nom": "Mich\u00e8le Delaunay", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/michele-delaunay/120", 
+        "sign\u00e9s": 118, 
+        "adopt\u00e9s": 88
+    }, 
+    "RRDP": {
+        "taux_adoption": 16.201117318435752, 
+        "nom": "Jeanine Dubi\u00e9", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/jeanine-dubie/120", 
+        "sign\u00e9s": 179, 
+        "adopt\u00e9s": 29
+    }, 
+    "LR": {
+        "taux_adoption": 45.454545454545453, 
+        "nom": "Annie Genevard", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/annie-genevard/120", 
+        "sign\u00e9s": 132, 
+        "adopt\u00e9s": 60
+    }, 
+    "UDI": {
+        "taux_adoption": 13.358778625954198, 
+        "nom": "Charles de Courson", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/charles-de-courson/120", 
+        "sign\u00e9s": 262, 
+        "adopt\u00e9s": 35
+    }
+}
