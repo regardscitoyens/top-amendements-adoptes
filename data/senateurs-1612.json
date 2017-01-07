@@ -1,0 +1,51 @@
+{
+    "NI": {
+        "taux_adoption": 12.5, 
+        "nom": "Philippe Adnot", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/philippe-adnot/120", 
+        "sign\u00e9s": 24, 
+        "adopt\u00e9s": 3
+    }, 
+    "SOC": {
+        "taux_adoption": 70.270270270270274, 
+        "nom": "Richard Yung", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/richard-yung/120", 
+        "sign\u00e9s": 37, 
+        "adopt\u00e9s": 26
+    }, 
+    "ECO": {
+        "taux_adoption": 14.285714285714286, 
+        "nom": "Herv\u00e9 Poher", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/herve-poher/120", 
+        "sign\u00e9s": 21, 
+        "adopt\u00e9s": 3
+    }, 
+    "RDSE": {
+        "taux_adoption": 28.767123287671232, 
+        "nom": "Jean-Claude Requier", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/jean-claude-requier/120", 
+        "sign\u00e9s": 73, 
+        "adopt\u00e9s": 21
+    }, 
+    "CRC": {
+        "taux_adoption": 22.580645161290324, 
+        "nom": "C\u00e9cile Cukierman", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/cecile-cukierman/120", 
+        "sign\u00e9s": 31, 
+        "adopt\u00e9s": 7
+    }, 
+    "LR": {
+        "taux_adoption": 85.91549295774648, 
+        "nom": "Alb\u00e9ric de Montgolfier", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/alberic-de-montgolfier/120", 
+        "sign\u00e9s": 71, 
+        "adopt\u00e9s": 61
+    }, 
+    "UDI": {
+        "taux_adoption": 25.510204081632654, 
+        "nom": "Jean-Marc Gabouty", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/jean-marc-gabouty/120", 
+        "sign\u00e9s": 98, 
+        "adopt\u00e9s": 25
+    }
+}

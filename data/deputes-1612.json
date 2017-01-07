@@ -1,0 +1,44 @@
+{
+    "NI": {
+        "taux_adoption": 26.315789473684209, 
+        "nom": "Dominique Chauvel", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/dominique-chauvel/120", 
+        "sign\u00e9s": 19, 
+        "adopt\u00e9s": 5
+    }, 
+    "GDR": {
+        "taux_adoption": 8.3333333333333339, 
+        "nom": "Jacqueline Fraysse", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/jacqueline-fraysse/120", 
+        "sign\u00e9s": 24, 
+        "adopt\u00e9s": 2
+    }, 
+    "SER": {
+        "taux_adoption": 83.507853403141368, 
+        "nom": "Val\u00e9rie Rabault", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/valerie-rabault/120", 
+        "sign\u00e9s": 382, 
+        "adopt\u00e9s": 319
+    }, 
+    "RRDP": {
+        "taux_adoption": 58.974358974358971, 
+        "nom": "Jeanine Dubi\u00e9", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/jeanine-dubie/120", 
+        "sign\u00e9s": 78, 
+        "adopt\u00e9s": 46
+    }, 
+    "LR": {
+        "taux_adoption": 54.545454545454547, 
+        "nom": "Jean-Luc Warsmann", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/jean-luc-warsmann/120", 
+        "sign\u00e9s": 66, 
+        "adopt\u00e9s": 36
+    }, 
+    "UDI": {
+        "taux_adoption": 7.8947368421052628, 
+        "nom": "Charles de Courson", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/charles-de-courson/120", 
+        "sign\u00e9s": 152, 
+        "adopt\u00e9s": 12
+    }
+}
