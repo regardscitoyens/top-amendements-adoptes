@@ -1,0 +1,44 @@
+{
+    "NI": {
+        "taux_adoption": 12.941176470588236, 
+        "nom": "Mich\u00e8le Bonneton", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/michele-bonneton/120", 
+        "sign\u00e9s": 85, 
+        "adopt\u00e9s": 11
+    }, 
+    "GDR": {
+        "taux_adoption": 17.857142857142858, 
+        "nom": "Andr\u00e9 Chassaigne", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/andre-chassaigne/120", 
+        "sign\u00e9s": 56, 
+        "adopt\u00e9s": 10
+    }, 
+    "SER": {
+        "taux_adoption": 74.5, 
+        "nom": "Jean-Paul Chanteguet", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/jean-paul-chanteguet/120", 
+        "sign\u00e9s": 200, 
+        "adopt\u00e9s": 149
+    }, 
+    "RRDP": {
+        "taux_adoption": 73.333333333333329, 
+        "nom": "Jeanine Dubi\u00e9", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/jeanine-dubie/120", 
+        "sign\u00e9s": 15, 
+        "adopt\u00e9s": 11
+    }, 
+    "LR": {
+        "taux_adoption": 12.903225806451612, 
+        "nom": "Lionel Tardy", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/lionel-tardy/120", 
+        "sign\u00e9s": 62, 
+        "adopt\u00e9s": 8
+    }, 
+    "UDI": {
+        "taux_adoption": 2.4390243902439024, 
+        "nom": "Thierry Benoit", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/thierry-benoit/120", 
+        "sign\u00e9s": 41, 
+        "adopt\u00e9s": 1
+    }
+}

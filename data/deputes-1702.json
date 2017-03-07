@@ -1,0 +1,30 @@
+{
+    "GDR": {
+        "taux_adoption": 75.0, 
+        "nom": "Marc Dolez", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/marc-dolez/120", 
+        "sign\u00e9s": 8, 
+        "adopt\u00e9s": 6
+    }, 
+    "UDI": {
+        "taux_adoption": 12.5, 
+        "nom": "Charles de Courson", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/charles-de-courson/120", 
+        "sign\u00e9s": 8, 
+        "adopt\u00e9s": 1
+    }, 
+    "LR": {
+        "taux_adoption": 11.111111111111111, 
+        "nom": "Bernard G\u00e9rard", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/bernard-gerard/120", 
+        "sign\u00e9s": 18, 
+        "adopt\u00e9s": 2
+    }, 
+    "SER": {
+        "taux_adoption": 91.304347826086953, 
+        "nom": "Yves Goasdoue", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/yves-goasdoue/120", 
+        "sign\u00e9s": 23, 
+        "adopt\u00e9s": 21
+    }
+}
