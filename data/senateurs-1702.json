@@ -1,0 +1,23 @@
+{
+    "SOC": {
+        "taux_adoption": 100.0, 
+        "nom": "Patricia Schillinger", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/patricia-schillinger/120", 
+        "sign\u00e9s": 1, 
+        "adopt\u00e9s": 1
+    }, 
+    "UDI": {
+        "taux_adoption": 80.0, 
+        "nom": "Vincent Capo-Canellas", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/vincent-capo-canellas/120", 
+        "sign\u00e9s": 5, 
+        "adopt\u00e9s": 4
+    }, 
+    "LR": {
+        "taux_adoption": 41.379310344827587, 
+        "nom": "Patrick Chaize", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/patrick-chaize/120", 
+        "sign\u00e9s": 29, 
+        "adopt\u00e9s": 12
+    }
+}
