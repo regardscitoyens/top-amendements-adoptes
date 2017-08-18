@@ -1,0 +1,44 @@
+{
+    "SOC": {
+        "taux_adoption": 22.22222222222222, 
+        "nom": "Jean-Yves Leconte", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/jean-yves-leconte/120", 
+        "sign\u00e9s": 45, 
+        "adopt\u00e9s": 10
+    }, 
+    "RDSE": {
+        "taux_adoption": 8.333333333333334, 
+        "nom": "Josiane Costes", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/josiane-costes/120", 
+        "sign\u00e9s": 36, 
+        "adopt\u00e9s": 3
+    }, 
+    "CRC": {
+        "taux_adoption": 5.555555555555555, 
+        "nom": "\u00c9liane Assassi", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/eliane-assassi/120", 
+        "sign\u00e9s": 72, 
+        "adopt\u00e9s": 4
+    }, 
+    "LR": {
+        "taux_adoption": 71.42857142857143, 
+        "nom": "Philippe Bas", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/philippe-bas/120", 
+        "sign\u00e9s": 28, 
+        "adopt\u00e9s": 20
+    }, 
+    "LREM": {
+        "taux_adoption": 25.0, 
+        "nom": "Alain Richard", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/alain-richard/120", 
+        "sign\u00e9s": 4, 
+        "adopt\u00e9s": 1
+    }, 
+    "UC": {
+        "taux_adoption": 50.0, 
+        "nom": "Michel Mercier", 
+        "photo": "http://www.nossenateurs.fr/senateur/photo/michel-mercier/120", 
+        "sign\u00e9s": 12, 
+        "adopt\u00e9s": 6
+    }
+}

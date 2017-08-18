@@ -1,0 +1,44 @@
+{
+    "GDR": {
+        "taux_adoption": 3.048780487804878, 
+        "nom": "Bruno Nestor Azerot", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/bruno-nestor-azerot/120", 
+        "sign\u00e9s": 164, 
+        "adopt\u00e9s": 5
+    }, 
+    "LC": {
+        "taux_adoption": 10.256410256410257, 
+        "nom": "Pierre Morel-\u00c0-L'Huissier", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/pierre-morel-a-l-huissier/120", 
+        "sign\u00e9s": 39, 
+        "adopt\u00e9s": 4
+    }, 
+    "NG": {
+        "taux_adoption": 9.917355371900827, 
+        "nom": "Val\u00e9rie Rabault", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/valerie-rabault/120", 
+        "sign\u00e9s": 121, 
+        "adopt\u00e9s": 12
+    }, 
+    "LR": {
+        "taux_adoption": 14.583333333333334, 
+        "nom": "Jean-Luc Reitzer", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/jean-luc-reitzer/120", 
+        "sign\u00e9s": 48, 
+        "adopt\u00e9s": 7
+    }, 
+    "MODEM": {
+        "taux_adoption": 25.0, 
+        "nom": "\u00c9lodie Jacquier-Laforge", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/elodie-jacquier-laforge/120", 
+        "sign\u00e9s": 40, 
+        "adopt\u00e9s": 10
+    }, 
+    "LREM": {
+        "taux_adoption": 84.25196850393701, 
+        "nom": "Ya\u00ebl Braun-Pivet", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/yael-braun-pivet/120", 
+        "sign\u00e9s": 127, 
+        "adopt\u00e9s": 107
+    }
+}
