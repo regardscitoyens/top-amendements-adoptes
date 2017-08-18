@@ -11,7 +11,7 @@ parl_file = os.path.join(".cache", "%s.json" % typeparls)
 if os.path.isfile(parl_file):
     os.remove(parl_file)
 
-since = (12, 6)
+since = (17, 6)
 now = (date.today().year - 2000, date.today().month)
 
 months = []
