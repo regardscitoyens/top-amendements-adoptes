@@ -1,0 +1,16 @@
+{
+    "LREM": {
+        "taux_adoption": 100.0, 
+        "nom": "Ya\u00ebl Braun-Pivet", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/yael-braun-pivet/120", 
+        "sign\u00e9s": 48, 
+        "adopt\u00e9s": 48
+    }, 
+    "NG": {
+        "taux_adoption": 21.428571428571427, 
+        "nom": "Delphine Batho", 
+        "photo": "http://www.nosdeputes.fr/depute/photo/delphine-batho/120", 
+        "sign\u00e9s": 14, 
+        "adopt\u00e9s": 3
+    }
+}
