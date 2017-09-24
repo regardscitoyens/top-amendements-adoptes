@@ -29,6 +29,13 @@ Baromètre amendements adoptés L'Hémicycle
   python build_month.py senateurs 1305
 ```
 
+- Pour générer les données cumulées entre 2 mois :
+
+```bash
+  python build_month.py deputes 1707 1709
+  python build_month.py senateurs 1707 1709
+```
+
 - Pour configurer l'envoi automatique du mail :
 
 ```bash

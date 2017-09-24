@@ -1,0 +1,51 @@
+{
+    "GDR": {
+        "taux_adoption": 2.824858757062147, 
+        "nom": "Jean-Paul Lecoq", 
+        "photo": "https://www.nosdeputes.fr/depute/photo/jean-paul-lecoq/120", 
+        "sign\u00e9s": 177, 
+        "adopt\u00e9s": 5
+    }, 
+    "LC": {
+        "taux_adoption": 6.944444444444445, 
+        "nom": "Pierre Morel-\u00c0-L'Huissier", 
+        "photo": "https://www.nosdeputes.fr/depute/photo/pierre-morel-a-l-huissier/120", 
+        "sign\u00e9s": 72, 
+        "adopt\u00e9s": 5
+    }, 
+    "LFI": {
+        "taux_adoption": 0.21929824561403508, 
+        "nom": "B\u00e9n\u00e9dicte Taurine", 
+        "photo": "https://www.nosdeputes.fr/depute/photo/benedicte-taurine/120", 
+        "sign\u00e9s": 456, 
+        "adopt\u00e9s": 1
+    }, 
+    "NG": {
+        "taux_adoption": 8.465608465608465, 
+        "nom": "R\u00e9gis Juanico", 
+        "photo": "https://www.nosdeputes.fr/depute/photo/regis-juanico/120", 
+        "sign\u00e9s": 189, 
+        "adopt\u00e9s": 16
+    }, 
+    "LR": {
+        "taux_adoption": 5.555555555555555, 
+        "nom": "\u00c9ric Ciotti", 
+        "photo": "https://www.nosdeputes.fr/depute/photo/eric-ciotti/120", 
+        "sign\u00e9s": 180, 
+        "adopt\u00e9s": 10
+    }, 
+    "MODEM": {
+        "taux_adoption": 20.0, 
+        "nom": "Vincent Bru", 
+        "photo": "https://www.nosdeputes.fr/depute/photo/vincent-bru/120", 
+        "sign\u00e9s": 55, 
+        "adopt\u00e9s": 11
+    }, 
+    "LREM": {
+        "taux_adoption": 88.57142857142857, 
+        "nom": "Ya\u00ebl Braun-Pivet", 
+        "photo": "https://www.nosdeputes.fr/depute/photo/yael-braun-pivet/120", 
+        "sign\u00e9s": 175, 
+        "adopt\u00e9s": 155
+    }
+}
